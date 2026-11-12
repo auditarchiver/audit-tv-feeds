@@ -14,7 +14,7 @@
     "app_version": "0.7.0",
     "playback_watchdog_seconds": 28,
     "startup_known_good_fallback": true,
-    "lineup_version": "2026-11-12-random101-flex102-shortvideo-v3",
+    "lineup_version": "2026-11-12-random101-flex102-shortvideo-v3-diag190-195-v1",
     "archive_on_demand_max_items": 60,
     "archive_discovery_on_startup": false,
     "flex_archive_resolve_on_startup": false,
@@ -7287,6 +7287,132 @@
       ],
       "category": "Audits",
       "icon_url": "https://archive.org/services/img/first-amendment-audit-p8lqySKt_Wo"
+    },
+    {
+      "id": "190",
+      "name": "Rapid Shorts",
+      "description": "Diagnostic: Repeated real 15–40-second clips",
+      "playlist_id": "diagnostic-rapid_shorts",
+      "video_ids": [
+        "FYF-JsZcF2BH6nQ",
+        "FYF-L3lexndq9FU",
+        "FYF-VO3HXdjCLYQ",
+        "FYF-Yzqo-sxwWRE",
+        "FYF-AiOQYXHeCTY",
+        "FYF-FjyFJbfS7NQ",
+        "FYF-Lv7w2UuusWI",
+        "FYF-ZShuEaTV084",
+        "FYF-sB-bse6xim4",
+        "FYF-99p_Rr_ImF0"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
+    },
+    {
+      "id": "191",
+      "name": "Short to Medium",
+      "description": "Diagnostic: Short clips interleaved with 60–120-second clips | UNMET: no verified 60–120-second recording",
+      "playlist_id": "diagnostic-short_medium",
+      "video_ids": [
+        "FYF-JsZcF2BH6nQ",
+        "FYF-VO3HXdjCLYQ",
+        "FYF-ZShuEaTV084",
+        "FYF-AZukSQmUgzw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-Fta3eXSVMoY",
+        "FYF-sB-bse6xim4",
+        "FYF-CP2HwaZEHPs",
+        "FYF-Lv7w2UuusWI",
+        "FYF-qFFd0y8f1j4"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
+    },
+    {
+      "id": "192",
+      "name": "Short to Long",
+      "description": "Diagnostic: Short clips followed by 120–180-second clips | UNMET: no verified 121–180-second recording",
+      "playlist_id": "diagnostic-short_long",
+      "video_ids": [
+        "FYF-Yzqo-sxwWRE",
+        "FYF-UnG3okfWE30",
+        "FYF-FjyFJbfS7NQ",
+        "FYF-HeeFy7OL8GM",
+        "FYF-9Eq69L5Lrts",
+        "FYF-AiOQYXHeCTY",
+        "FYF-zMI3BmkjNzk",
+        "FYF-ZShuEaTV084",
+        "FYF-4hR0c1TTUtw",
+        "FYF-JK2eFKFzSIw"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
+    },
+    {
+      "id": "193",
+      "name": "Near-End Tuning",
+      "description": "Diagnostic: Frequent 17–45-second boundaries",
+      "playlist_id": "diagnostic-near_end",
+      "video_ids": [
+        "FYF-CP2HwaZEHPs",
+        "FYF-Lv7w2UuusWI",
+        "FYF-4hR0c1TTUtw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-AiOQYXHeCTY",
+        "FYF-ZShuEaTV084",
+        "FYF-hckzOcF92hA",
+        "FYF-zMI3BmkjNzk",
+        "FYF-JK2eFKFzSIw",
+        "FYF-qFFd0y8f1j4"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
+    },
+    {
+      "id": "194",
+      "name": "Mixed Creators",
+      "description": "Diagnostic: Short clips from multiple creators | UNMET: no short approved recording from a second creator",
+      "playlist_id": "diagnostic-mixed_creators",
+      "video_ids": [
+        "FYF-YVIEn1dlNBY",
+        "FYF-KfqoPF7zSI0",
+        "FYF-ZrdVimcFeL4",
+        "FYF-AZukSQmUgzw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-EUmr3pLeeYM",
+        "FYF-L3lexndq9FU",
+        "FYF-GyCsASf3FjE",
+        "FYF-Fta3eXSVMoY",
+        "FYF-9zGqEpIjxDo"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
+    },
+    {
+      "id": "195",
+      "name": "Playback Stress",
+      "description": "Diagnostic: Many consecutive short transitions",
+      "playlist_id": "diagnostic-playback_stress",
+      "video_ids": [
+        "FYF-99p_Rr_ImF0",
+        "FYF-JZw2AHrhMjA",
+        "FYF-Fta3eXSVMoY",
+        "FYF-9Eq69L5Lrts",
+        "FYF-AiOQYXHeCTY",
+        "FYF-UnG3okfWE30",
+        "FYF-ZrdVimcFeL4",
+        "FYF-QXldtLrm3Sk",
+        "FYF-JK2eFKFzSIw",
+        "FYF-GyCsASf3FjE"
+      ],
+      "category": "Diagnostics",
+      "diagnostic": true,
+      "icon_url": "pkg:/images/channels/audit-tv.png"
     }
   ],
   "playlists": [
@@ -7687,6 +7813,108 @@
       "description": "Creator videos",
       "video_ids": [
         "NHN-p8lqySKt_Wo"
+      ]
+    },
+    {
+      "id": "diagnostic-rapid_shorts",
+      "title": "Rapid Shorts",
+      "description": "Test scenario rapid_shorts",
+      "video_ids": [
+        "FYF-JsZcF2BH6nQ",
+        "FYF-L3lexndq9FU",
+        "FYF-VO3HXdjCLYQ",
+        "FYF-Yzqo-sxwWRE",
+        "FYF-AiOQYXHeCTY",
+        "FYF-FjyFJbfS7NQ",
+        "FYF-Lv7w2UuusWI",
+        "FYF-ZShuEaTV084",
+        "FYF-sB-bse6xim4",
+        "FYF-99p_Rr_ImF0"
+      ]
+    },
+    {
+      "id": "diagnostic-short_medium",
+      "title": "Short to Medium",
+      "description": "Test scenario short_medium",
+      "video_ids": [
+        "FYF-JsZcF2BH6nQ",
+        "FYF-VO3HXdjCLYQ",
+        "FYF-ZShuEaTV084",
+        "FYF-AZukSQmUgzw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-Fta3eXSVMoY",
+        "FYF-sB-bse6xim4",
+        "FYF-CP2HwaZEHPs",
+        "FYF-Lv7w2UuusWI",
+        "FYF-qFFd0y8f1j4"
+      ]
+    },
+    {
+      "id": "diagnostic-short_long",
+      "title": "Short to Long",
+      "description": "Test scenario short_long",
+      "video_ids": [
+        "FYF-Yzqo-sxwWRE",
+        "FYF-UnG3okfWE30",
+        "FYF-FjyFJbfS7NQ",
+        "FYF-HeeFy7OL8GM",
+        "FYF-9Eq69L5Lrts",
+        "FYF-AiOQYXHeCTY",
+        "FYF-zMI3BmkjNzk",
+        "FYF-ZShuEaTV084",
+        "FYF-4hR0c1TTUtw",
+        "FYF-JK2eFKFzSIw"
+      ]
+    },
+    {
+      "id": "diagnostic-near_end",
+      "title": "Near-End Tuning",
+      "description": "Test scenario near_end",
+      "video_ids": [
+        "FYF-CP2HwaZEHPs",
+        "FYF-Lv7w2UuusWI",
+        "FYF-4hR0c1TTUtw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-AiOQYXHeCTY",
+        "FYF-ZShuEaTV084",
+        "FYF-hckzOcF92hA",
+        "FYF-zMI3BmkjNzk",
+        "FYF-JK2eFKFzSIw",
+        "FYF-qFFd0y8f1j4"
+      ]
+    },
+    {
+      "id": "diagnostic-mixed_creators",
+      "title": "Mixed Creators",
+      "description": "Test scenario mixed_creators",
+      "video_ids": [
+        "FYF-YVIEn1dlNBY",
+        "FYF-KfqoPF7zSI0",
+        "FYF-ZrdVimcFeL4",
+        "FYF-AZukSQmUgzw",
+        "FYF-99p_Rr_ImF0",
+        "FYF-EUmr3pLeeYM",
+        "FYF-L3lexndq9FU",
+        "FYF-GyCsASf3FjE",
+        "FYF-Fta3eXSVMoY",
+        "FYF-9zGqEpIjxDo"
+      ]
+    },
+    {
+      "id": "diagnostic-playback_stress",
+      "title": "Playback Stress",
+      "description": "Test scenario playback_stress",
+      "video_ids": [
+        "FYF-99p_Rr_ImF0",
+        "FYF-JZw2AHrhMjA",
+        "FYF-Fta3eXSVMoY",
+        "FYF-9Eq69L5Lrts",
+        "FYF-AiOQYXHeCTY",
+        "FYF-UnG3okfWE30",
+        "FYF-ZrdVimcFeL4",
+        "FYF-QXldtLrm3Sk",
+        "FYF-JK2eFKFzSIw",
+        "FYF-GyCsASf3FjE"
       ]
     }
   ]
