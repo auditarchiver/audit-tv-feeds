@@ -77,7 +77,7 @@
     },
     {
       "id": "kult-news",
-      "name": "KULT",
+      "name": "KULT News",
       "description": "First Amendment audits",
       "youtube_channel_url": "https://www.youtube.com/@KULTNEWS/videos"
     }
@@ -23801,7 +23801,7 @@
     },
     {
       "id": "103",
-      "name": "KULT",
+      "name": "KULT News",
       "creator_id": "kult-news",
       "description": "First Amendment auditing videos",
       "video_ids": [
@@ -25418,7 +25418,7 @@
     },
     {
       "id": "kult-news",
-      "title": "KULT",
+      "title": "KULT News",
       "description": "Creator videos",
       "video_ids": [
         "KN-v-67cIk9JZw",
