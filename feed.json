@@ -259,7 +259,9 @@
       ],
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-01-27",
-      "archive_uploaded_at": "2026-11-11 16:32:25"
+      "archive_uploaded_at": "2026-11-11 16:32:25",
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-2780zUUYatg",
@@ -4058,7 +4060,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-06-03",
       "archive_uploaded_at": "2026-11-12 05:45:02",
-      "duration_seconds": 40
+      "duration_seconds": 40,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-5jiJ_Ar8H_c",
@@ -4132,7 +4136,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-05-06",
       "archive_uploaded_at": "2026-11-12 08:58:13",
-      "duration_seconds": 12838
+      "duration_seconds": 12838,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-99p_Rr_ImF0",
@@ -4168,7 +4174,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-07",
       "archive_uploaded_at": "2026-11-12 02:24:25",
-      "duration_seconds": 25
+      "duration_seconds": 25,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-9Eq69L5Lrts",
@@ -4204,7 +4212,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-06",
       "archive_uploaded_at": "2026-11-12 02:28:02",
-      "duration_seconds": 16
+      "duration_seconds": 16,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-9aD62Dlsluw",
@@ -4240,7 +4250,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-05-29",
       "archive_uploaded_at": "2026-11-12 06:35:48",
-      "duration_seconds": 58
+      "duration_seconds": 58,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-9aU8WM1hgKw",
@@ -4352,7 +4364,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-09-27",
       "archive_uploaded_at": "2026-11-12 04:00:19",
-      "duration_seconds": 51
+      "duration_seconds": 51,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-AZukSQmUgzw",
@@ -4388,7 +4402,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-14",
       "archive_uploaded_at": "2026-11-12 02:51:44",
-      "duration_seconds": 33
+      "duration_seconds": 33,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-AiOQYXHeCTY",
@@ -4424,7 +4440,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-06-24",
       "archive_uploaded_at": "2026-11-12 05:30:24",
-      "duration_seconds": 28
+      "duration_seconds": 28,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-CP2HwaZEHPs",
@@ -4460,7 +4478,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-14",
       "archive_uploaded_at": "2026-11-12 02:50:47",
-      "duration_seconds": 29
+      "duration_seconds": 29,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-EHp630V-cxg",
@@ -4534,7 +4554,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-06-20",
       "archive_uploaded_at": "2026-11-12 05:31:45",
-      "duration_seconds": 50
+      "duration_seconds": 50,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-FjyFJbfS7NQ",
@@ -4570,7 +4592,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-09-27",
       "archive_uploaded_at": "2026-11-12 03:58:05",
-      "duration_seconds": 29
+      "duration_seconds": 29,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-Fta3eXSVMoY",
@@ -4606,7 +4630,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-09",
       "archive_uploaded_at": "2026-11-12 02:22:05",
-      "duration_seconds": 31
+      "duration_seconds": 31,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-GyCsASf3FjE",
@@ -4642,7 +4668,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-06",
       "archive_uploaded_at": "2026-11-12 02:26:39",
-      "duration_seconds": 45
+      "duration_seconds": 45,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-H6gOp4R7XVc",
@@ -4716,7 +4744,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-06-02",
       "archive_uploaded_at": "2026-11-12 06:31:31",
-      "duration_seconds": 28
+      "duration_seconds": 28,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-ILDcM-E6E1Y",
@@ -4790,7 +4820,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-07-13",
       "archive_uploaded_at": "2026-11-12 05:28:00",
-      "duration_seconds": 38
+      "duration_seconds": 38,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-JZw2AHrhMjA",
@@ -4826,7 +4858,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-05-29",
       "archive_uploaded_at": "2026-11-12 06:33:50",
-      "duration_seconds": 54
+      "duration_seconds": 54,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-Je2RhytZR5U",
@@ -4900,7 +4934,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-07-13",
       "archive_uploaded_at": "2026-11-12 05:29:10",
-      "duration_seconds": 39
+      "duration_seconds": 39,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-KfqoPF7zSI0",
@@ -4936,7 +4972,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-10-16",
       "archive_uploaded_at": "2026-11-12 03:22:54",
-      "duration_seconds": 46
+      "duration_seconds": 46,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-L3lexndq9FU",
@@ -4972,7 +5010,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-05-28",
       "archive_uploaded_at": "2026-11-12 00:15:11",
-      "duration_seconds": 25
+      "duration_seconds": 25,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-Lv7w2UuusWI",
@@ -5008,7 +5048,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-10-08",
       "archive_uploaded_at": "2026-11-12 03:23:56",
-      "duration_seconds": 26
+      "duration_seconds": 26,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-NiiLyC3pxas",
@@ -5044,7 +5086,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-26",
       "archive_uploaded_at": "2026-11-12 02:49:33",
-      "duration_seconds": 57
+      "duration_seconds": 57,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-NycSqF11Jvs",
@@ -5118,7 +5162,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-07",
       "archive_uploaded_at": "2026-11-12 02:25:21",
-      "duration_seconds": 19
+      "duration_seconds": 19,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-RK3KFq_SGns",
@@ -5306,7 +5352,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-09-28",
       "archive_uploaded_at": "2026-11-12 03:56:39",
-      "duration_seconds": 24
+      "duration_seconds": 24,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-VO3HXdjCLYQ",
@@ -5342,7 +5390,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-10",
       "archive_uploaded_at": "2026-11-12 03:03:36",
-      "duration_seconds": 15
+      "duration_seconds": 15,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-XDVwZVqT5y4",
@@ -5454,7 +5504,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-07-19",
       "archive_uploaded_at": "2026-11-12 05:20:41",
-      "duration_seconds": 13
+      "duration_seconds": 13,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-Yzqo-sxwWRE",
@@ -5490,7 +5542,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-09-27",
       "archive_uploaded_at": "2026-11-12 03:58:53",
-      "duration_seconds": 40
+      "duration_seconds": 40,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-ZShuEaTV084",
@@ -5526,7 +5580,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-09-28",
       "archive_uploaded_at": "2026-11-12 03:55:50",
-      "duration_seconds": 39
+      "duration_seconds": 39,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-ccicbGJq2j0",
@@ -5714,7 +5770,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-05-17",
       "archive_uploaded_at": "2026-11-12 00:23:34",
-      "duration_seconds": 43
+      "duration_seconds": 43,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-n1KRL2jC6d8",
@@ -5750,7 +5808,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-06-14",
       "archive_uploaded_at": "2026-11-12 00:13:59",
-      "duration_seconds": 9719
+      "duration_seconds": 9719,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-qFFd0y8f1j4",
@@ -5786,7 +5846,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-10",
       "archive_uploaded_at": "2026-11-12 03:06:05",
-      "duration_seconds": 31
+      "duration_seconds": 31,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-sB-bse6xim4",
@@ -5822,7 +5884,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-10",
       "archive_uploaded_at": "2026-11-12 03:04:52",
-      "duration_seconds": 34
+      "duration_seconds": 34,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-tDtfOEB40n0",
@@ -6010,7 +6074,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-10-08",
       "archive_uploaded_at": "2026-11-12 03:24:59",
-      "duration_seconds": 16
+      "duration_seconds": 16,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-xRJ4sUFZo4k",
@@ -6122,7 +6188,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-04-09",
       "archive_uploaded_at": "2026-11-12 11:08:09",
-      "duration_seconds": 3955
+      "duration_seconds": 3955,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-zMI3BmkjNzk",
@@ -6158,7 +6226,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2025-01-09",
       "archive_uploaded_at": "2026-11-12 02:23:18",
-      "duration_seconds": 36
+      "duration_seconds": 36,
+      "media_display_width": 608,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-sAs38SLxWUE",
@@ -6308,7 +6378,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-04-01",
       "archive_uploaded_at": "2026-11-12 13:05:20",
-      "duration_seconds": 8006
+      "duration_seconds": 8006,
+      "media_display_width": 1280,
+      "media_display_height": 720
     },
     {
       "id": "FYF-whVqLORIzvo",
@@ -6344,7 +6416,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-04-06",
       "archive_uploaded_at": "2026-11-12 11:57:33",
-      "duration_seconds": 16613
+      "duration_seconds": 16613,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-52d1xvsY6UI",
@@ -6456,7 +6530,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-12-25",
       "archive_uploaded_at": "2026-11-12 16:08:34",
-      "duration_seconds": 482
+      "duration_seconds": 482,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-qWyT1ZGBcLo",
@@ -6606,7 +6682,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-02-24",
       "archive_uploaded_at": "2026-11-12 16:15:02",
-      "duration_seconds": 5185
+      "duration_seconds": 5185,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-EG4DVrxr84c",
@@ -6756,7 +6834,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-09-30",
       "archive_uploaded_at": "2026-11-12 18:30:36",
-      "duration_seconds": 495
+      "duration_seconds": 495,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-bSW_VQFKAUY",
@@ -6868,7 +6948,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-10-11",
       "archive_uploaded_at": "2026-11-12 18:24:04",
-      "duration_seconds": 482
+      "duration_seconds": 482,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-kiBEf5dOtOc",
@@ -7056,7 +7138,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-09-18",
       "archive_uploaded_at": "2026-11-12 18:30:59",
-      "duration_seconds": 552
+      "duration_seconds": 552,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-ukgCgeUjrDc",
@@ -7092,7 +7176,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-12-14",
       "archive_uploaded_at": "2026-11-12 18:00:18",
-      "duration_seconds": 7240
+      "duration_seconds": 7240,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-vmGU4B-mnVc",
@@ -7546,7 +7632,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-04-05",
       "archive_uploaded_at": "2026-11-12 19:27:08",
-      "duration_seconds": 377
+      "duration_seconds": 377,
+      "media_display_width": 1280,
+      "media_display_height": 720
     },
     {
       "id": "NHN-4tntoxRqkCM",
@@ -8454,7 +8542,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-03-18",
       "archive_uploaded_at": "2026-11-12 19:44:57",
-      "duration_seconds": 396
+      "duration_seconds": 396,
+      "media_display_width": 1280,
+      "media_display_height": 720
     },
     {
       "id": "FYF-H2GRUdx3vzM",
@@ -8490,7 +8580,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-05-11",
       "archive_uploaded_at": "2026-11-12 19:16:34",
-      "duration_seconds": 370
+      "duration_seconds": 370,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-HqFIadxyKZk",
@@ -8868,7 +8960,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-05-26",
       "archive_uploaded_at": "2026-11-12 19:17:48",
-      "duration_seconds": 490
+      "duration_seconds": 490,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-OPi2GO_2dxA",
@@ -9892,7 +9986,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2022-09-06",
       "archive_uploaded_at": "2026-11-12 21:04:44",
-      "duration_seconds": 178
+      "duration_seconds": 178,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "FYF-bn-UU2X4qMg",
@@ -9928,7 +10024,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-09-02",
       "archive_uploaded_at": "2026-11-12 18:41:10",
-      "duration_seconds": 483
+      "duration_seconds": 483,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-cbsPlbbK98c",
@@ -11254,7 +11352,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-04-17",
       "archive_uploaded_at": "2026-11-13 10:06:38",
-      "duration_seconds": 3726
+      "duration_seconds": 3726,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-v9PEsBnVB68",
@@ -11328,7 +11428,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-03-23",
       "archive_uploaded_at": "2026-11-12 19:38:58",
-      "duration_seconds": 519
+      "duration_seconds": 519,
+      "media_display_width": 1280,
+      "media_display_height": 720
     },
     {
       "id": "TTA-xHv97EIHZ5k",
@@ -11630,7 +11732,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2023-01-26",
       "archive_uploaded_at": "2026-11-12 20:48:02",
-      "duration_seconds": 366
+      "duration_seconds": 366,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-zyX4IYt5XGk",
@@ -12654,7 +12758,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-02-10",
       "archive_uploaded_at": "2026-11-13 18:22:35",
-      "duration_seconds": 1260
+      "duration_seconds": 1260,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-tDrfoczzEdU",
@@ -12877,7 +12983,7 @@
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;Police;Law Enforcement;Freedom of Speech;1st amendment;first amendment"
       ],
       "category": "First Amendment Audits",
-      "thumbnail_url": "https://audittv.us/assets/videos/press-nh-now/FM7EMwxctC4/thumbnail-78aa67d81c8d.jpg",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2024-11-04",
       "archive_uploaded_at": "2026-11-13 20:19:42",
       "duration_seconds": 1194,
@@ -13146,7 +13252,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-09-29",
       "archive_uploaded_at": "2026-11-13 21:20:13",
-      "duration_seconds": 345
+      "duration_seconds": 345,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-N4bk7iR85q4",
@@ -13220,7 +13328,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-09-21",
       "archive_uploaded_at": "2026-11-13 21:26:52",
-      "duration_seconds": 238
+      "duration_seconds": 238,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-kYeLUVi9fvU",
@@ -13408,7 +13518,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-10-01",
       "archive_uploaded_at": "2026-11-13 21:15:36",
-      "duration_seconds": 582
+      "duration_seconds": 582,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-91OBnHNF2FU",
@@ -13558,7 +13670,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-09-18",
       "archive_uploaded_at": "2026-11-13 21:43:50",
-      "duration_seconds": 566
+      "duration_seconds": 566,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-_G293xwa0YI",
@@ -13746,7 +13860,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-09-13",
       "archive_uploaded_at": "2026-11-13 22:03:50",
-      "duration_seconds": 501
+      "duration_seconds": 501,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-17k0d09WXBE",
@@ -14162,7 +14278,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-08-11",
       "archive_uploaded_at": "2026-11-13 23:33:31",
-      "duration_seconds": 527
+      "duration_seconds": 527,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-YS3nT_7OyS4",
@@ -14312,7 +14430,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-07-15",
       "archive_uploaded_at": "2026-11-14 01:17:48",
-      "duration_seconds": 475
+      "duration_seconds": 475,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-iF3pqHVlhMk",
@@ -14386,7 +14506,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-07-13",
       "archive_uploaded_at": "2026-11-14 01:21:40",
-      "duration_seconds": 485
+      "duration_seconds": 485,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-mJTNLG1Dlfk",
@@ -14992,7 +15114,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-07-03",
       "archive_uploaded_at": "2026-11-14 02:51:03",
-      "duration_seconds": 342
+      "duration_seconds": 342,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-VY0PwhGj3zA",
@@ -15028,7 +15152,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-07-06",
       "archive_uploaded_at": "2026-11-14 02:41:03",
-      "duration_seconds": 421
+      "duration_seconds": 421,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-1QzSYo_NVvY",
@@ -15102,7 +15228,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-06-24",
       "archive_uploaded_at": "2026-11-14 03:39:04",
-      "duration_seconds": 238
+      "duration_seconds": 238,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "KN-AQqU9-8urCI",
@@ -15138,7 +15266,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-07-16",
       "archive_uploaded_at": "2026-11-14 03:40:34",
-      "duration_seconds": 114
+      "duration_seconds": 114,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-prPFs1mqotU",
@@ -15250,7 +15380,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-06-17",
       "archive_uploaded_at": "2026-11-14 12:24:11",
-      "duration_seconds": 515
+      "duration_seconds": 515,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-9ySuHdzcWcM",
@@ -15552,7 +15684,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-06-23",
       "archive_uploaded_at": "2026-11-14 04:47:52",
-      "duration_seconds": 385
+      "duration_seconds": 385,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-rrx3Ji8wAkU",
@@ -15588,7 +15722,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-06-22",
       "archive_uploaded_at": "2026-11-14 08:15:25",
-      "duration_seconds": 372
+      "duration_seconds": 372,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "TTA-vOe-Yr93muI",
@@ -16004,7 +16140,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-06-04",
       "archive_uploaded_at": "2026-11-14 18:05:13",
-      "duration_seconds": 376
+      "duration_seconds": 376,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "KN-YTZHe8SZJug",
@@ -16116,7 +16254,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-05-27",
       "archive_uploaded_at": "2026-11-14 18:44:11",
-      "duration_seconds": 347
+      "duration_seconds": 347,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "KN-GNee0sDq5_o",
@@ -16456,7 +16596,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-05-10",
       "archive_uploaded_at": "2026-11-15 04:53:42",
-      "duration_seconds": 387
+      "duration_seconds": 387,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-UsPqF0eowjY",
@@ -16796,7 +16938,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-03-16",
       "archive_uploaded_at": "2026-11-15 03:43:19",
-      "duration_seconds": 4283
+      "duration_seconds": 4283,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-quuxTyGH7g8",
@@ -17098,7 +17242,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-02-17",
       "archive_uploaded_at": "2026-11-15 07:53:27",
-      "duration_seconds": 4963
+      "duration_seconds": 4963,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "KN-IFrHIOzp5B8",
@@ -17134,7 +17280,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-02-13",
       "archive_uploaded_at": "2026-11-15 08:40:57",
-      "duration_seconds": 3729
+      "duration_seconds": 3729,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-4rNbEVDfKgw",
@@ -17246,7 +17394,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-01-29",
       "archive_uploaded_at": "2026-11-16 04:25:57",
-      "duration_seconds": 6551
+      "duration_seconds": 6551,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-Hy-B-3XJ3iI",
@@ -17262,16 +17412,16 @@
       "url": "https://archive.org/download/first-amendment-audit-Hy-B-3XJ3iI/first-amendment-audit-Hy-B-3XJ3iI-roku-h264-aac.mp4",
       "video_filename": "first-amendment-audit-Hy-B-3XJ3iI-roku-h264-aac.mp4",
       "stream_format": "mp4",
-      "playback_status": "archive_roku_mp4_unverified",
+      "playback_status": "archive_roku_mp4_verified",
       "approval_status": "approved_by_upload",
-      "roku_status": "unverified",
+      "roku_status": "ready",
       "rights_status": "uploaded_by_designated_account",
       "roku_verified_dev": false,
-      "media_video_codec": "unverified",
-      "media_audio_codec": "unverified",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
       "file_size": 1142711780,
       "md5": "08b2d602472925ab992c67fd3447f105",
-      "last_verified_at": "",
+      "last_verified_at": "2026-11-16T15:59:09+00:00",
       "topics": [
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
       ],
@@ -17282,7 +17432,7 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-04-23",
       "archive_uploaded_at": "2026-11-16 08:04:04",
-      "duration_seconds": 1396.18,
+      "duration_seconds": 1396,
       "media_display_width": 1920,
       "media_display_height": 1080
     },
@@ -17814,7 +17964,9 @@
       "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
       "published_at": "2026-05-02",
       "archive_uploaded_at": "2026-11-16 02:46:42",
-      "duration_seconds": 357
+      "duration_seconds": 357,
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "NHN-rbt2Jjc-cfM",
@@ -17929,6 +18081,424 @@
       "duration_seconds": 1366,
       "media_display_width": 1920,
       "media_display_height": 1080
+    },
+    {
+      "id": "TTA-1t6gDsG53e4",
+      "creator_id": "tyrant-terminator-audits",
+      "title": "DETERMINED KARENS ESCALATED EVERYTHING-FIRST AMENDMENT",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-1t6gDsG53e4",
+      "archive_identifier": "first-amendment-audit-1t6gDsG53e4",
+      "youtube_id": "1t6gDsG53e4",
+      "youtube_url": "https://www.youtube.com/watch?v=1t6gDsG53e4",
+      "youtube_channel_url": "https://www.youtube.com/@TTA42800/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-1t6gDsG53e4/first-amendment-audit-1t6gDsG53e4-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-1t6gDsG53e4-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 1798055955,
+      "md5": "57c1f3887b355482d94007d72e57fd95",
+      "last_verified_at": "2026-11-16T15:58:45+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2025-10-07",
+      "archive_uploaded_at": "2026-11-16 12:49:30",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 2166
+    },
+    {
+      "id": "TTA-6swEq9cLn9Y",
+      "creator_id": "tyrant-terminator-audits",
+      "title": "“DON’T RECORD ME,I’M THE IRISH MAFIA,AND WITNESS PROTECTION”-FIRST AMENDMENT",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-6swEq9cLn9Y",
+      "archive_identifier": "first-amendment-audit-6swEq9cLn9Y",
+      "youtube_id": "6swEq9cLn9Y",
+      "youtube_url": "https://www.youtube.com/watch?v=6swEq9cLn9Y",
+      "youtube_channel_url": "https://www.youtube.com/@TTA42800/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-6swEq9cLn9Y/first-amendment-audit-6swEq9cLn9Y-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-6swEq9cLn9Y-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 1863235944,
+      "md5": "ebcbee7a103cbd801189e853c18665f7",
+      "last_verified_at": "2026-11-16T15:58:47+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2025-10-08",
+      "archive_uploaded_at": "2026-11-16 11:50:08",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 2244
+    },
+    {
+      "id": "GGA-F_kA_ewZ_zE",
+      "creator_id": "good-guy-activism",
+      "title": "ARRESTED…FOR THIS⁉️",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-F_kA_ewZ_zE",
+      "archive_identifier": "first-amendment-audit-F_kA_ewZ_zE",
+      "youtube_id": "F_kA_ewZ_zE",
+      "youtube_url": "https://www.youtube.com/watch?v=F_kA_ewZ_zE",
+      "youtube_channel_url": "https://www.youtube.com/@GoodGuyActivism/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-F_kA_ewZ_zE/first-amendment-audit-F_kA_ewZ_zE-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-F_kA_ewZ_zE-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 1380992027,
+      "md5": "b642d7662d29814641c4ab56c90745e4",
+      "last_verified_at": "2026-11-16T15:58:49+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2026-02-25",
+      "archive_uploaded_at": "2026-11-16 15:49:05",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 1695
+    },
+    {
+      "id": "GGA-J8jvgL6-ZJM",
+      "creator_id": "good-guy-activism",
+      "title": "This is PRIVATE property | State Superior Court",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-J8jvgL6-ZJM",
+      "archive_identifier": "first-amendment-audit-J8jvgL6-ZJM",
+      "youtube_id": "J8jvgL6-ZJM",
+      "youtube_url": "https://www.youtube.com/watch?v=J8jvgL6-ZJM",
+      "youtube_channel_url": "https://www.youtube.com/@GoodGuyActivism/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-J8jvgL6-ZJM/first-amendment-audit-J8jvgL6-ZJM-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-J8jvgL6-ZJM-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 274816387,
+      "md5": "a1996d7b1c0dcad0fdd0e7b2bfb44248",
+      "last_verified_at": "2026-11-16T15:58:50+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2026-04-16",
+      "archive_uploaded_at": "2026-11-16 11:53:42",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 339
+    },
+    {
+      "id": "NHN-MKORy31IqSU",
+      "creator_id": "press-nh-now",
+      "title": "POST OFFICE SUPERVISOR *OWNED* CUSTOMER DEMANDS I *STOP RECORDING* PRESS NH NOW 1ST AMENDMENT AUDIT",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-MKORy31IqSU",
+      "archive_identifier": "first-amendment-audit-MKORy31IqSU",
+      "youtube_id": "MKORy31IqSU",
+      "youtube_url": "https://www.youtube.com/watch?v=MKORy31IqSU",
+      "youtube_channel_url": "https://www.youtube.com/@TheRealPressNHNow/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-MKORy31IqSU/first-amendment-audit-MKORy31IqSU-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-MKORy31IqSU-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 666871343,
+      "md5": "4c279891bc0a7cd9955c003f89258de2",
+      "last_verified_at": "2026-11-16T15:58:52+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;United States Postal Service;Freedom of Speech;1st amendment;first amendment;post office"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;United States Postal Service;Freedom of Speech;1st amendment;first amendment;post office"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2024-04-22",
+      "archive_uploaded_at": "2026-11-16 12:21:37",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 800
+    },
+    {
+      "id": "KN-PY73R3iZhN4",
+      "creator_id": "kult-news",
+      "title": "INSECURE MAN CALLS COPS OVER A CAMERA - First Amendment Audit",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-PY73R3iZhN4",
+      "archive_identifier": "first-amendment-audit-PY73R3iZhN4",
+      "youtube_id": "PY73R3iZhN4",
+      "youtube_url": "https://www.youtube.com/watch?v=PY73R3iZhN4",
+      "youtube_channel_url": "https://www.youtube.com/@KULTNEWS/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-PY73R3iZhN4/first-amendment-audit-PY73R3iZhN4-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-PY73R3iZhN4-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 1555717681,
+      "md5": "b2bb2022a853f91ab23b908811a5ac22",
+      "last_verified_at": "2026-11-16T15:58:54+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;First amendment"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;First amendment"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2025-12-04",
+      "archive_uploaded_at": "2026-11-16 13:47:05",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 1961
+    },
+    {
+      "id": "GGA-WhKabVE69K8",
+      "creator_id": "good-guy-activism",
+      "title": "GIVE ME YOUR ID NOW ! EDUCATION GIVEN !",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-WhKabVE69K8",
+      "archive_identifier": "first-amendment-audit-WhKabVE69K8",
+      "youtube_id": "WhKabVE69K8",
+      "youtube_url": "https://www.youtube.com/watch?v=WhKabVE69K8",
+      "youtube_channel_url": "https://www.youtube.com/@GoodGuyActivism/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-WhKabVE69K8/first-amendment-audit-WhKabVE69K8-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-WhKabVE69K8-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 580753900,
+      "md5": "dbe31603a0bbf977b307748bc4d314dc",
+      "last_verified_at": "2026-11-16T15:58:56+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2026-04-13",
+      "archive_uploaded_at": "2026-11-16 14:40:49",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 708
+    },
+    {
+      "id": "KN-kHKXusPBv4I",
+      "creator_id": "kult-news",
+      "title": "GROSS INCOMPETENCE IN OCALA, FLORIDA - First Amendment Audit",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-kHKXusPBv4I",
+      "archive_identifier": "first-amendment-audit-kHKXusPBv4I",
+      "youtube_id": "kHKXusPBv4I",
+      "youtube_url": "https://www.youtube.com/watch?v=kHKXusPBv4I",
+      "youtube_channel_url": "https://www.youtube.com/@KULTNEWS/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-kHKXusPBv4I/first-amendment-audit-kHKXusPBv4I-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-kHKXusPBv4I-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 927216364,
+      "md5": "1137babffc09a4d158ab631188e15dd6",
+      "last_verified_at": "2026-11-16T15:58:58+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2025-11-26",
+      "archive_uploaded_at": "2026-11-16 15:07:59",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 1236
+    },
+    {
+      "id": "NHN-obhVnPeGxVo",
+      "creator_id": "press-nh-now",
+      "title": "POST OFFICE *KAREN'S GET OWNED* 911 CALLS INCLUDED *DRIVE OF SHAME* ACTON, MASS 1ST AMENDMENT AUDIT",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-obhVnPeGxVo",
+      "archive_identifier": "first-amendment-audit-obhVnPeGxVo",
+      "youtube_id": "obhVnPeGxVo",
+      "youtube_url": "https://www.youtube.com/watch?v=obhVnPeGxVo",
+      "youtube_channel_url": "https://www.youtube.com/@TheRealPressNHNow/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-obhVnPeGxVo/first-amendment-audit-obhVnPeGxVo-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-obhVnPeGxVo-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 1434301978,
+      "md5": "d51f9c3dcda3ce109828b68ce174fdb3",
+      "last_verified_at": "2026-11-16T15:59:00+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;Police;Law Enforcement;United States Postal Service;Freedom of Speech;post office"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;Police;Law Enforcement;United States Postal Service;Freedom of Speech;post office"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2024-04-18",
+      "archive_uploaded_at": "2026-11-16 14:27:23",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 1847
+    },
+    {
+      "id": "GGA-tJyktt4JKGc",
+      "creator_id": "good-guy-activism",
+      "title": "YOU CANT RECORD POLICE | YOU GOTTA GO",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-tJyktt4JKGc",
+      "archive_identifier": "first-amendment-audit-tJyktt4JKGc",
+      "youtube_id": "tJyktt4JKGc",
+      "youtube_url": "https://www.youtube.com/watch?v=tJyktt4JKGc",
+      "youtube_channel_url": "https://www.youtube.com/@GoodGuyActivism/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-tJyktt4JKGc/first-amendment-audit-tJyktt4JKGc-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-tJyktt4JKGc-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 412409050,
+      "md5": "803d8ff4c8a79ecc8632b88096c31de4",
+      "last_verified_at": "2026-11-16T15:59:01+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism;Police;Law Enforcement"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Good Guy Activism;Police;Law Enforcement"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2026-04-14",
+      "archive_uploaded_at": "2026-11-16 13:01:33",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 531
+    },
+    {
+      "id": "KN-v-67cIk9JZw",
+      "creator_id": "kult-news",
+      "title": "OH THE HUMANITY! - First Amendment Audit",
+      "description": "",
+      "source_url": "https://archive.org/details/first-amendment-audit-v-67cIk9JZw",
+      "archive_identifier": "first-amendment-audit-v-67cIk9JZw",
+      "youtube_id": "v-67cIk9JZw",
+      "youtube_url": "https://www.youtube.com/watch?v=v-67cIk9JZw",
+      "youtube_channel_url": "https://www.youtube.com/@KULTNEWS/videos",
+      "language": "eng",
+      "url": "https://archive.org/download/first-amendment-audit-v-67cIk9JZw/first-amendment-audit-v-67cIk9JZw-roku-h264-aac.mp4",
+      "video_filename": "first-amendment-audit-v-67cIk9JZw-roku-h264-aac.mp4",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "roku_status": "ready",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_verified_dev": false,
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "file_size": 2722937208,
+      "md5": "1dc153fe4f7ba57eb5de8f4726c108a4",
+      "last_verified_at": "2026-11-16T15:59:03+00:00",
+      "topics": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Mike Norton"
+      ],
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Mike Norton"
+      ],
+      "category": "First Amendment Audits",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "published_at": "2025-12-11",
+      "archive_uploaded_at": "2026-11-16 12:15:06",
+      "media_display_width": 1920,
+      "media_display_height": 1080,
+      "duration_seconds": 3568
     },
     {
       "id": "TTA-oh3zFxnraeg-P001",
@@ -18241,6 +18811,68 @@
       "media_display_height": 720
     },
     {
+      "id": "NHN-obhVnPeGxVo-P001",
+      "title": "POST OFFICE *KAREN'S GET OWNED* 911 CALLS INCLUDED *DRIVE OF SHAME* ACTON, MASS 1ST AMENDMENT AUDIT — Part 1 of 2",
+      "creator_id": "press-nh-now",
+      "url": "https://archive.org/download/first-amendment-audit-obhVnPeGxVo/first-amendment-audit-obhVnPeGxVo-roku-h264-aac.mp4",
+      "duration_seconds": 924,
+      "is_virtual_segment": true,
+      "source_video_id": "NHN-obhVnPeGxVo",
+      "source_duration_seconds": 1847,
+      "segment_start_seconds": 0,
+      "segment_end_seconds": 924,
+      "segment_index": 1,
+      "segment_count": 2,
+      "creator_channel_id": "105",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;Police;Law Enforcement;United States Postal Service;Freedom of Speech;post office"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-obhVnPeGxVo",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "NHN-obhVnPeGxVo-P002",
+      "title": "POST OFFICE *KAREN'S GET OWNED* 911 CALLS INCLUDED *DRIVE OF SHAME* ACTON, MASS 1ST AMENDMENT AUDIT — Part 2 of 2",
+      "creator_id": "press-nh-now",
+      "url": "https://archive.org/download/first-amendment-audit-obhVnPeGxVo/first-amendment-audit-obhVnPeGxVo-roku-h264-aac.mp4",
+      "duration_seconds": 923,
+      "is_virtual_segment": true,
+      "source_video_id": "NHN-obhVnPeGxVo",
+      "source_duration_seconds": 1847,
+      "segment_start_seconds": 924,
+      "segment_end_seconds": 1847,
+      "segment_index": 2,
+      "segment_count": 2,
+      "creator_channel_id": "105",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Press NH Now;Police;Law Enforcement;United States Postal Service;Freedom of Speech;post office"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-obhVnPeGxVo",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
       "id": "NHN-o6DHkF7wyLo-P001",
       "title": "*KRAZY KAREN* SCREAMS IN TONGUE AT CHURCH/DEPUTY NEARLY *GETS HIT* PEPPER SPRAY ACTIVATED ON DARREN — Part 1 of 2",
       "creator_id": "press-nh-now",
@@ -18301,6 +18933,68 @@
       "source_url": "https://archive.org/details/first-amendment-audit-o6DHkF7wyLo",
       "media_display_width": 1280,
       "media_display_height": 720
+    },
+    {
+      "id": "TTA-1t6gDsG53e4-P001",
+      "title": "DETERMINED KARENS ESCALATED EVERYTHING-FIRST AMENDMENT — Part 1 of 2",
+      "creator_id": "tyrant-terminator-audits",
+      "url": "https://archive.org/download/first-amendment-audit-1t6gDsG53e4/first-amendment-audit-1t6gDsG53e4-roku-h264-aac.mp4",
+      "duration_seconds": 1083,
+      "is_virtual_segment": true,
+      "source_video_id": "TTA-1t6gDsG53e4",
+      "source_duration_seconds": 2166,
+      "segment_start_seconds": 0,
+      "segment_end_seconds": 1083,
+      "segment_index": 1,
+      "segment_count": 2,
+      "creator_channel_id": "107",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-1t6gDsG53e4",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "TTA-1t6gDsG53e4-P002",
+      "title": "DETERMINED KARENS ESCALATED EVERYTHING-FIRST AMENDMENT — Part 2 of 2",
+      "creator_id": "tyrant-terminator-audits",
+      "url": "https://archive.org/download/first-amendment-audit-1t6gDsG53e4/first-amendment-audit-1t6gDsG53e4-roku-h264-aac.mp4",
+      "duration_seconds": 1083,
+      "is_virtual_segment": true,
+      "source_video_id": "TTA-1t6gDsG53e4",
+      "source_duration_seconds": 2166,
+      "segment_start_seconds": 1083,
+      "segment_end_seconds": 2166,
+      "segment_index": 2,
+      "segment_count": 2,
+      "creator_channel_id": "107",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-1t6gDsG53e4",
+      "media_display_width": 1920,
+      "media_display_height": 1080
     },
     {
       "id": "GGA-KxYGIXMj0Jk-P001",
@@ -18609,6 +19303,68 @@
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Flex Your Freedoms;Comedy;Humor;Police;Law Enforcement;Freedom of Speech"
       ],
       "source_url": "https://archive.org/details/first-amendment-audit-qVv-8Sd2hl8",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "KN-PY73R3iZhN4-P001",
+      "title": "INSECURE MAN CALLS COPS OVER A CAMERA - First Amendment Audit — Part 1 of 2",
+      "creator_id": "kult-news",
+      "url": "https://archive.org/download/first-amendment-audit-PY73R3iZhN4/first-amendment-audit-PY73R3iZhN4-roku-h264-aac.mp4",
+      "duration_seconds": 981,
+      "is_virtual_segment": true,
+      "source_video_id": "KN-PY73R3iZhN4",
+      "source_duration_seconds": 1961,
+      "segment_start_seconds": 0,
+      "segment_end_seconds": 981,
+      "segment_index": 1,
+      "segment_count": 2,
+      "creator_channel_id": "103",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;First amendment"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-PY73R3iZhN4",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "KN-PY73R3iZhN4-P002",
+      "title": "INSECURE MAN CALLS COPS OVER A CAMERA - First Amendment Audit — Part 2 of 2",
+      "creator_id": "kult-news",
+      "url": "https://archive.org/download/first-amendment-audit-PY73R3iZhN4/first-amendment-audit-PY73R3iZhN4-roku-h264-aac.mp4",
+      "duration_seconds": 980,
+      "is_virtual_segment": true,
+      "source_video_id": "KN-PY73R3iZhN4",
+      "source_duration_seconds": 1961,
+      "segment_start_seconds": 981,
+      "segment_end_seconds": 1961,
+      "segment_index": 2,
+      "segment_count": 2,
+      "creator_channel_id": "103",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;First amendment"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-PY73R3iZhN4",
       "media_display_width": 1920,
       "media_display_height": 1080
     },
@@ -20473,6 +21229,68 @@
       "media_display_height": 1080
     },
     {
+      "id": "TTA-6swEq9cLn9Y-P001",
+      "title": "“DON’T RECORD ME,I’M THE IRISH MAFIA,AND WITNESS PROTECTION”-FIRST AMENDMENT — Part 1 of 2",
+      "creator_id": "tyrant-terminator-audits",
+      "url": "https://archive.org/download/first-amendment-audit-6swEq9cLn9Y/first-amendment-audit-6swEq9cLn9Y-roku-h264-aac.mp4",
+      "duration_seconds": 1122,
+      "is_virtual_segment": true,
+      "source_video_id": "TTA-6swEq9cLn9Y",
+      "source_duration_seconds": 2244,
+      "segment_start_seconds": 0,
+      "segment_end_seconds": 1122,
+      "segment_index": 1,
+      "segment_count": 2,
+      "creator_channel_id": "107",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-6swEq9cLn9Y",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "TTA-6swEq9cLn9Y-P002",
+      "title": "“DON’T RECORD ME,I’M THE IRISH MAFIA,AND WITNESS PROTECTION”-FIRST AMENDMENT — Part 2 of 2",
+      "creator_id": "tyrant-terminator-audits",
+      "url": "https://archive.org/download/first-amendment-audit-6swEq9cLn9Y/first-amendment-audit-6swEq9cLn9Y-roku-h264-aac.mp4",
+      "duration_seconds": 1122,
+      "is_virtual_segment": true,
+      "source_video_id": "TTA-6swEq9cLn9Y",
+      "source_duration_seconds": 2244,
+      "segment_start_seconds": 1122,
+      "segment_end_seconds": 2244,
+      "segment_index": 2,
+      "segment_count": 2,
+      "creator_channel_id": "107",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Tyrant Terminator Audits!!!;Freedom of Speech"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-6swEq9cLn9Y",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
       "id": "GGA-iPtJd_FEiu0-P001",
       "title": "GOVERNMENT LIES ON MULTIPLE CAMERAS TO FRAME JOURNALIST !! — Part 1 of 2",
       "creator_id": "good-guy-activism",
@@ -22333,6 +23151,68 @@
       "media_display_height": 1080
     },
     {
+      "id": "KN-v-67cIk9JZw-P001",
+      "title": "OH THE HUMANITY! - First Amendment Audit — Part 1 of 2",
+      "creator_id": "kult-news",
+      "url": "https://archive.org/download/first-amendment-audit-v-67cIk9JZw/first-amendment-audit-v-67cIk9JZw-roku-h264-aac.mp4",
+      "duration_seconds": 1784,
+      "is_virtual_segment": true,
+      "source_video_id": "KN-v-67cIk9JZw",
+      "source_duration_seconds": 3568,
+      "segment_start_seconds": 0,
+      "segment_end_seconds": 1784,
+      "segment_index": 1,
+      "segment_count": 2,
+      "creator_channel_id": "103",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Mike Norton"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-v-67cIk9JZw",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
+      "id": "KN-v-67cIk9JZw-P002",
+      "title": "OH THE HUMANITY! - First Amendment Audit — Part 2 of 2",
+      "creator_id": "kult-news",
+      "url": "https://archive.org/download/first-amendment-audit-v-67cIk9JZw/first-amendment-audit-v-67cIk9JZw-roku-h264-aac.mp4",
+      "duration_seconds": 1784,
+      "is_virtual_segment": true,
+      "source_video_id": "KN-v-67cIk9JZw",
+      "source_duration_seconds": 3568,
+      "segment_start_seconds": 1784,
+      "segment_end_seconds": 3568,
+      "segment_index": 2,
+      "segment_count": 2,
+      "creator_channel_id": "103",
+      "random_channel_id": "101",
+      "stream_format": "mp4",
+      "playback_status": "archive_roku_mp4_verified",
+      "approval_status": "approved_by_upload",
+      "rights_status": "uploaded_by_designated_account",
+      "roku_status": "ready",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
+      "thumbnail_url": "https://audittv.us/assets/videos/placeholder-v1.jpg",
+      "category": "First Amendment Audits",
+      "tags": [
+        "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Mike Norton"
+      ],
+      "source_url": "https://archive.org/details/first-amendment-audit-v-67cIk9JZw",
+      "media_display_width": 1920,
+      "media_display_height": 1080
+    },
+    {
       "id": "KN-r-6UBbKQeOo-P001",
       "title": "LITTLE MAN, BIG ATTITUDE - First Amendment Audit — Part 1 of 2",
       "creator_id": "kult-news",
@@ -22426,6 +23306,7 @@
         "NHN-lzGeOHGm8Jw",
         "GGA-uX08fWkl1CA",
         "GGA-KKGYn0yIjNo",
+        "TTA-1t6gDsG53e4-P001",
         "NHN-H14yL2biBmM",
         "FYF-O_nX17hh-3M",
         "GGA-17k0d09WXBE-P001",
@@ -22435,6 +23316,7 @@
         "TTA-mJTNLG1Dlfk",
         "GGA-KxYGIXMj0Jk-P001",
         "FYF-e0OgZlIZGv4",
+        "NHN-obhVnPeGxVo-P001",
         "KN-O9sWGjMVujs-P001",
         "NHN-jyrWVQ36v6E",
         "NHN-4qX9U_shnO4-P001",
@@ -22472,6 +23354,7 @@
         "TTA-eTxIcLXwiAU",
         "NHN-l4nq_kBSI3E-P001",
         "FYF-NycSqF11Jvs",
+        "TTA-6swEq9cLn9Y-P001",
         "TTA-Q_p3MfymiAI",
         "NHN-k8q_XJcQERo",
         "NHN-iJDL2_3yKtA",
@@ -22501,6 +23384,7 @@
         "FYF-C_rus_l4894",
         "GGA-DT9_wy1Hdjo",
         "NHN-24pqK-pAL8U-P001",
+        "GGA-F_kA_ewZ_zE",
         "FYF-dQJ5h6ZwoLc",
         "TTA-06LZDvFOsJg-P001",
         "GGA-_HdjSdLVf80",
@@ -22514,12 +23398,14 @@
         "FYF-dKAH-73Aa-Q",
         "NHN-a20dGKanH2I",
         "NHN-iLb0Z38Cagc-P001",
+        "KN-PY73R3iZhN4-P001",
         "NHN-zyX4IYt5XGk-P001",
         "GGA-KGNxenhTUHY",
         "TTA-uDTwphHqM-g",
         "NHN-yOVa4wkZMBU",
         "NHN-Oxedq3rQ3w8",
         "NHN-P9lFIN2HjQA",
+        "NHN-MKORy31IqSU",
         "NHN-CH5yqwU8RQw",
         "TTA-Q5ezI7Ve-Yc-P001",
         "FYF-Zdx3N01Nb6o",
@@ -22588,6 +23474,7 @@
         "NHN-NHwfMxs6fgw",
         "GGA-QNh7kApzK5A",
         "TTA-7nETCI2Ey4Y-P001",
+        "KN-v-67cIk9JZw-P001",
         "NHN-trDNMGopb74-P001",
         "GGA-NYc4XZfpcog",
         "FYF-bq4A5r5U-Uc-RD2DA7556BFBE",
@@ -22623,6 +23510,7 @@
         "TTA-J4WsLCjQuOg-P002",
         "FYF-xe8220lKFVE",
         "TTA-ZnboSpCc-Bo",
+        "TTA-1t6gDsG53e4-P002",
         "TTA-ldL7-xeZqGE",
         "NHN-FM7EMwxctC4",
         "GGA-17k0d09WXBE-P002",
@@ -22632,6 +23520,7 @@
         "TTA-iWrpCDU2MFo-P002",
         "NHN-g3pTRmgkY5A",
         "GGA-KxYGIXMj0Jk-P002",
+        "NHN-obhVnPeGxVo-P002",
         "KN-O9sWGjMVujs-P002",
         "GGA-4yDJ__O2C2k",
         "FYF-12D3GMl1nT8",
@@ -22669,6 +23558,7 @@
         "KN-9sSpPnN17ng-P002",
         "NHN-l4nq_kBSI3E-P002",
         "TTA-mAtJBIWGnv0",
+        "TTA-6swEq9cLn9Y-P002",
         "TTA-ZyytmtNGJSk",
         "GGA-ejmSD9pwA_E",
         "FYF-acczf3B26f8",
@@ -22682,6 +23572,7 @@
         "TTA-G7tFdOWqA4M",
         "FYF-5AyMU5mHJgg",
         "KN-r-6UBbKQeOo-P002",
+        "TTA-rsVl_QwS8sY",
         "NHN-u_1vqEuB7PI-P002",
         "NHN-iB5x_rEveyI",
         "NHN-DHqIV2R46cM-P002",
@@ -22700,6 +23591,7 @@
         "NHN-7Hcv09sBtCg",
         "NHN-1Kh-sesaio8",
         "NHN-24pqK-pAL8U-P002",
+        "GGA-WhKabVE69K8",
         "NHN-quuxTyGH7g8",
         "TTA-kiBEf5dOtOc",
         "GGA-AptuHsuUPjQ",
@@ -22713,6 +23605,7 @@
         "FYF-rzBZwuNe-tg",
         "NHN-DbNOOJ4IPCI",
         "NHN-iLb0Z38Cagc-P002",
+        "KN-PY73R3iZhN4-P002",
         "NHN-zyX4IYt5XGk-P002",
         "FYF-D9-carOrbbo",
         "GGA-1QzSYo_NVvY",
@@ -22724,6 +23617,7 @@
         "TTA-xlbSJtkpFNA-P002",
         "FYF-qVv-8Sd2hl8-R6F630D40FF90",
         "NHN-p8lqySKt_Wo-RA83BCD90D10A",
+        "KN-kHKXusPBv4I",
         "TTA-rahESLt5JuQ",
         "KN-jyB_6inkSZs-P002",
         "GGA-eWSabjlPvWE",
@@ -22769,6 +23663,7 @@
         "FYF-vDD-0jh42b4",
         "TTA-7nETCI2Ey4Y-P002",
         "FYF-2780zUUYatg",
+        "KN-v-67cIk9JZw-P002",
         "KN-rBmYQsjIBqo",
         "NHN-trDNMGopb74-P002",
         "FYF-bq4A5r5U-Uc-RAD60F51E31FA",
@@ -22910,6 +23805,9 @@
       "creator_id": "kult-news",
       "description": "First Amendment auditing videos",
       "video_ids": [
+        "KN-v-67cIk9JZw",
+        "KN-kHKXusPBv4I",
+        "KN-PY73R3iZhN4",
         "KN-nqYh7VAc0Wg",
         "KN-lBNGjW0iiVc",
         "KN-ZOn87bG0Nho",
@@ -22938,6 +23836,10 @@
       "creator_id": "good-guy-activism",
       "description": "First Amendment auditing videos",
       "video_ids": [
+        "GGA-tJyktt4JKGc",
+        "GGA-WhKabVE69K8",
+        "GGA-J8jvgL6-ZJM",
+        "GGA-F_kA_ewZ_zE",
         "GGA-rXeJpt2EyY0",
         "GGA-jJd30jYM4nw",
         "GGA-iPtJd_FEiu0",
@@ -23008,6 +23910,8 @@
       "creator_id": "press-nh-now",
       "description": "First Amendment auditing videos",
       "video_ids": [
+        "NHN-obhVnPeGxVo",
+        "NHN-MKORy31IqSU",
         "NHN-rbt2Jjc-cfM",
         "NHN-gdCWGuZdfyc",
         "NHN-bpWEY_HKaAY",
@@ -23201,6 +24105,8 @@
       "creator_id": "tyrant-terminator-audits",
       "description": "First Amendment auditing videos",
       "video_ids": [
+        "TTA-6swEq9cLn9Y",
+        "TTA-1t6gDsG53e4",
         "TTA-xZRahCOhbBA",
         "TTA-u12IGuSX8go",
         "TTA-biEQzEUT7BA",
@@ -23561,6 +24467,7 @@
         "NHN-lzGeOHGm8Jw",
         "GGA-uX08fWkl1CA",
         "GGA-KKGYn0yIjNo",
+        "TTA-1t6gDsG53e4-P001",
         "NHN-H14yL2biBmM",
         "FYF-O_nX17hh-3M",
         "GGA-17k0d09WXBE-P001",
@@ -23570,6 +24477,7 @@
         "TTA-mJTNLG1Dlfk",
         "GGA-KxYGIXMj0Jk-P001",
         "FYF-e0OgZlIZGv4",
+        "NHN-obhVnPeGxVo-P001",
         "KN-O9sWGjMVujs-P001",
         "NHN-jyrWVQ36v6E",
         "NHN-4qX9U_shnO4-P001",
@@ -23607,6 +24515,7 @@
         "TTA-eTxIcLXwiAU",
         "NHN-l4nq_kBSI3E-P001",
         "FYF-NycSqF11Jvs",
+        "TTA-6swEq9cLn9Y-P001",
         "TTA-Q_p3MfymiAI",
         "NHN-k8q_XJcQERo",
         "NHN-iJDL2_3yKtA",
@@ -23636,6 +24545,7 @@
         "FYF-C_rus_l4894",
         "GGA-DT9_wy1Hdjo",
         "NHN-24pqK-pAL8U-P001",
+        "GGA-F_kA_ewZ_zE",
         "FYF-dQJ5h6ZwoLc",
         "TTA-06LZDvFOsJg-P001",
         "GGA-_HdjSdLVf80",
@@ -23649,12 +24559,14 @@
         "FYF-dKAH-73Aa-Q",
         "NHN-a20dGKanH2I",
         "NHN-iLb0Z38Cagc-P001",
+        "KN-PY73R3iZhN4-P001",
         "NHN-zyX4IYt5XGk-P001",
         "GGA-KGNxenhTUHY",
         "TTA-uDTwphHqM-g",
         "NHN-yOVa4wkZMBU",
         "NHN-Oxedq3rQ3w8",
         "NHN-P9lFIN2HjQA",
+        "NHN-MKORy31IqSU",
         "NHN-CH5yqwU8RQw",
         "TTA-Q5ezI7Ve-Yc-P001",
         "FYF-Zdx3N01Nb6o",
@@ -23723,6 +24635,7 @@
         "NHN-NHwfMxs6fgw",
         "GGA-QNh7kApzK5A",
         "TTA-7nETCI2Ey4Y-P001",
+        "KN-v-67cIk9JZw-P001",
         "NHN-trDNMGopb74-P001",
         "GGA-NYc4XZfpcog",
         "FYF-bq4A5r5U-Uc-RD2DA7556BFBE",
@@ -23758,6 +24671,7 @@
         "TTA-J4WsLCjQuOg-P002",
         "FYF-xe8220lKFVE",
         "TTA-ZnboSpCc-Bo",
+        "TTA-1t6gDsG53e4-P002",
         "TTA-ldL7-xeZqGE",
         "NHN-FM7EMwxctC4",
         "GGA-17k0d09WXBE-P002",
@@ -23767,6 +24681,7 @@
         "TTA-iWrpCDU2MFo-P002",
         "NHN-g3pTRmgkY5A",
         "GGA-KxYGIXMj0Jk-P002",
+        "NHN-obhVnPeGxVo-P002",
         "KN-O9sWGjMVujs-P002",
         "GGA-4yDJ__O2C2k",
         "FYF-12D3GMl1nT8",
@@ -23804,6 +24719,7 @@
         "KN-9sSpPnN17ng-P002",
         "NHN-l4nq_kBSI3E-P002",
         "TTA-mAtJBIWGnv0",
+        "TTA-6swEq9cLn9Y-P002",
         "TTA-ZyytmtNGJSk",
         "GGA-ejmSD9pwA_E",
         "FYF-acczf3B26f8",
@@ -23817,6 +24733,7 @@
         "TTA-G7tFdOWqA4M",
         "FYF-5AyMU5mHJgg",
         "KN-r-6UBbKQeOo-P002",
+        "TTA-rsVl_QwS8sY",
         "NHN-u_1vqEuB7PI-P002",
         "NHN-iB5x_rEveyI",
         "NHN-DHqIV2R46cM-P002",
@@ -23835,6 +24752,7 @@
         "NHN-7Hcv09sBtCg",
         "NHN-1Kh-sesaio8",
         "NHN-24pqK-pAL8U-P002",
+        "GGA-WhKabVE69K8",
         "NHN-quuxTyGH7g8",
         "TTA-kiBEf5dOtOc",
         "GGA-AptuHsuUPjQ",
@@ -23848,6 +24766,7 @@
         "FYF-rzBZwuNe-tg",
         "NHN-DbNOOJ4IPCI",
         "NHN-iLb0Z38Cagc-P002",
+        "KN-PY73R3iZhN4-P002",
         "NHN-zyX4IYt5XGk-P002",
         "FYF-D9-carOrbbo",
         "GGA-1QzSYo_NVvY",
@@ -23859,6 +24778,7 @@
         "TTA-xlbSJtkpFNA-P002",
         "FYF-qVv-8Sd2hl8-R6F630D40FF90",
         "NHN-p8lqySKt_Wo-RA83BCD90D10A",
+        "KN-kHKXusPBv4I",
         "TTA-rahESLt5JuQ",
         "KN-jyB_6inkSZs-P002",
         "GGA-eWSabjlPvWE",
@@ -23904,6 +24824,7 @@
         "FYF-vDD-0jh42b4",
         "TTA-7nETCI2Ey4Y-P002",
         "FYF-2780zUUYatg",
+        "KN-v-67cIk9JZw-P002",
         "KN-rBmYQsjIBqo",
         "NHN-trDNMGopb74-P002",
         "FYF-bq4A5r5U-Uc-RAD60F51E31FA",
@@ -24221,6 +25142,8 @@
       "title": "Tyrant Terminator Audits!!!",
       "description": "Creator videos",
       "video_ids": [
+        "TTA-6swEq9cLn9Y",
+        "TTA-1t6gDsG53e4",
         "TTA-xZRahCOhbBA",
         "TTA-u12IGuSX8go",
         "TTA-biEQzEUT7BA",
@@ -24308,6 +25231,8 @@
       "title": "Press NH Now",
       "description": "Creator videos",
       "video_ids": [
+        "NHN-obhVnPeGxVo",
+        "NHN-MKORy31IqSU",
         "NHN-rbt2Jjc-cfM",
         "NHN-gdCWGuZdfyc",
         "NHN-bpWEY_HKaAY",
@@ -24425,6 +25350,10 @@
       "title": "Good Guy Activism",
       "description": "Creator videos",
       "video_ids": [
+        "GGA-tJyktt4JKGc",
+        "GGA-WhKabVE69K8",
+        "GGA-J8jvgL6-ZJM",
+        "GGA-F_kA_ewZ_zE",
         "GGA-rXeJpt2EyY0",
         "GGA-jJd30jYM4nw",
         "GGA-iPtJd_FEiu0",
@@ -24492,6 +25421,9 @@
       "title": "KULT",
       "description": "Creator videos",
       "video_ids": [
+        "KN-v-67cIk9JZw",
+        "KN-kHKXusPBv4I",
+        "KN-PY73R3iZhN4",
         "KN-nqYh7VAc0Wg",
         "KN-lBNGjW0iiVc",
         "KN-ZOn87bG0Nho",
