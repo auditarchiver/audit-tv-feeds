@@ -6,6 +6,52 @@
   ],
   "assets": [
     {
+      "id": "AT-2eyBpRdUfZg",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "💥 ONE CITIZEN VS. AN ENTIRE COUNTY BUILDING! Who Actually Knows the Law?!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-21",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-2eyBpRdUfZg/first-amendment-audit-2eyBpRdUfZg_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2440000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-2eyBpRdUfZg"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-6vxM3rjz-oE",
       "type": "tvspecial",
       "titles": [
@@ -98,6 +144,98 @@
       }
     },
     {
+      "id": "AT-BSM6Mcsu5Fw",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "YOUR TAX DOLLARS AT WORK! Government Employees Get Schooled by a Citizen Auditor!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-19",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-BSM6Mcsu5Fw/first-amendment-audit-BSM6Mcsu5Fw_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1800000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-BSM6Mcsu5Fw"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-ClA5Zt0BHWw",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "3 COOK COUNTY SHERIFF DEPUTIES vs. 1 CITIZEN AUDITOR — WHO REALLY KNOWS THE LAW"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-18",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-ClA5Zt0BHWw/first-amendment-audit-ClA5Zt0BHWw_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1606000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-ClA5Zt0BHWw"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-Ex2f2hhrhc8",
       "type": "shortForm",
       "titles": [
@@ -139,6 +277,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "AT-Ex2f2hhrhc8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-LNyqhNatooo",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "🔥 I HAD TO TEACH GOVERNMENT EMPLOYEES THEIR OWN JOBS! Taxpayers Paid THOUSANDS!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-20",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-LNyqhNatooo/first-amendment-audit-LNyqhNatooo_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1258000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-LNyqhNatooo"
           }
         ]
       }
@@ -236,6 +420,98 @@
       }
     },
     {
+      "id": "AT-eq7fppWTYbE",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "I'M NOT RESPONSIBLE FOR THAT! — Cook County Employee Gets Questioned by Citizen Auditor!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-eq7fppWTYbE/first-amendment-audit-eq7fppWTYbE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1166000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-eq7fppWTYbE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-mU3PIDUz5fI",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "🔥 FOLLOW THE MONEY! Citizen Auditor Takes a Closer Look at Skokie Public Library!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-16",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-mU3PIDUz5fI/first-amendment-audit-mU3PIDUz5fI_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1315000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-mU3PIDUz5fI"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-o_Do69GfnUU",
       "type": "tvspecial",
       "titles": [
@@ -277,6 +553,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "AT-o_Do69GfnUU"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-t-uNM2rIv5M",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Lake County Attorney Thinks She Knows the Law… Until a Citizen Auditor Shows Up!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-15",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-t-uNM2rIv5M/first-amendment-audit-t-uNM2rIv5M_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 3071000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-t-uNM2rIv5M"
           }
         ]
       }
@@ -5664,6 +5986,52 @@
       }
     },
     {
+      "id": "GGA-0m0PURYgYqI",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "NY Cops are really this UNINTELLIGENT  !"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-31",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-0m0PURYgYqI/first-amendment-audit-0m0PURYgYqI_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 476000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-0m0PURYgYqI"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-17k0d09WXBE",
       "type": "tvspecial",
       "titles": [
@@ -5797,6 +6165,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-1v1Dw-6hrFw"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-2AZuld1ld6w",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "NYPD VS GGA | BEST OF 2025 | Part 1"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-01-05",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-2AZuld1ld6w/first-amendment-audit-2AZuld1ld6w_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2684000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-2AZuld1ld6w"
           }
         ]
       }
@@ -6119,6 +6533,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-6eWHJuYS0x8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-6hPtNBALot4",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "THIS NYPD ACTIONS WILL SHOCK YOU !!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-01-07",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-6hPtNBALot4/first-amendment-audit-6hPtNBALot4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 557000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-6hPtNBALot4"
           }
         ]
       }
@@ -7228,6 +7688,52 @@
       }
     },
     {
+      "id": "GGA-MgR6cXtJ8JU",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Police officer REGRETS MESSING WITH THIS GOOD GUY !"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-01-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-MgR6cXtJ8JU/first-amendment-audit-MgR6cXtJ8JU_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 589000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-MgR6cXtJ8JU"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-NPiHEVQahVA",
       "type": "shortForm",
       "titles": [
@@ -7591,6 +8097,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-RcjEAnU7Pl4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-T6keV1Iw1qU",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "POLICE SAFETY IS MOST IMPORTANT TO THE NYPD"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-29",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-T6keV1Iw1qU/first-amendment-audit-T6keV1Iw1qU_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1709000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-T6keV1Iw1qU"
           }
         ]
       }
@@ -8005,6 +8557,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-W5UhM_O8UXQ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-WGBO-WqXBBU",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "POLICE LIE AND FRAME AND HURT TRANS WOMAN"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-01-09",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-WGBO-WqXBBU/first-amendment-audit-WGBO-WqXBBU_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 958000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-WGBO-WqXBBU"
           }
         ]
       }
@@ -9988,6 +10586,52 @@
       }
     },
     {
+      "id": "GGA-uTLJFByLAR4",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "NYPD ROOKIES GO HANDS ON FAST WHEN THEY DONT GET THEIR WAY"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-26",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-uTLJFByLAR4/first-amendment-audit-uTLJFByLAR4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 698000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-uTLJFByLAR4"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-uX08fWkl1CA",
       "type": "tvspecial",
       "titles": [
@@ -10356,6 +11000,52 @@
       }
     },
     {
+      "id": "HCRI-0PMEXTXqJmM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "FISHING IS NOT A CRIME!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2012-03-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-0PMEXTXqJmM/first-amendment-audit-0PMEXTXqJmM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 603000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-0PMEXTXqJmM"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-7-vA239sAF8",
       "type": "tvspecial",
       "titles": [
@@ -10581,6 +11271,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "HCRI-FFlAtq6b7EA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-FWGZ97o6Sec",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "DUI Checkpoint-Remain Silent-No Searches-Attorney"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-22",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-FWGZ97o6Sec/first-amendment-audit-FWGZ97o6Sec_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 350000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-FWGZ97o6Sec"
           }
         ]
       }
@@ -11460,6 +12196,52 @@
       }
     },
     {
+      "id": "HCRI-d0EXhtCKlzY",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "All This Constitutional Crap."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-08-18",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-d0EXhtCKlzY/first-amendment-audit-d0EXhtCKlzY_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 638000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-d0EXhtCKlzY"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-d4FMYnU4Puo",
       "type": "shortForm",
       "titles": [
@@ -11552,6 +12334,98 @@
       }
     },
     {
+      "id": "HCRI-iehgiJtfN84",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Lawsuit-City Ordinance Revoked!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-07-10",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-iehgiJtfN84/first-amendment-audit-iehgiJtfN84_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 290000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-iehgiJtfN84"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-ig3vKbPaLTY",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Back Ur A$$ Off!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-03-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-ig3vKbPaLTY/first-amendment-audit-ig3vKbPaLTY_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 990000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-ig3vKbPaLTY"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-m65xpOf34hM",
       "type": "shortForm",
       "titles": [
@@ -11639,6 +12513,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "HCRI-ogj3M5rBqPg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-pBOpsiVxp8s",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "(BodyCam) ID Or Jail!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2021-12-21",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-pBOpsiVxp8s/first-amendment-audit-pBOpsiVxp8s_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1395000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-pBOpsiVxp8s"
           }
         ]
       }
@@ -12058,6 +12978,52 @@
       }
     },
     {
+      "id": "JF-1EJszbWYQVQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "RE-UPLOAD - We'll tell you what you can and can't record   Denison Police Stalking me full video"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2019-06-19",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-1EJszbWYQVQ/first-amendment-audit-1EJszbWYQVQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1073000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-1EJszbWYQVQ"
+          }
+        ]
+      }
+    },
+    {
       "id": "JF-3SUFGmH4Cnk",
       "type": "shortForm",
       "titles": [
@@ -12099,6 +13065,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-3SUFGmH4Cnk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-4y-1GOAPtdw",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Lawyer Arrests Public Official, Cops Negotiate For Her Freedom"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-02-27",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-4y-1GOAPtdw/first-amendment-audit-4y-1GOAPtdw_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 898000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-4y-1GOAPtdw"
           }
         ]
       }
@@ -12237,6 +13249,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-7uJwt9cC0kQ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-B7JsfVG3FKo",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Cop Gets The Investigation Flipped On Him, How Does He React?"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-04-10",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-B7JsfVG3FKo/first-amendment-audit-B7JsfVG3FKo_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1187000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-B7JsfVG3FKo"
           }
         ]
       }
@@ -12656,6 +13714,52 @@
       }
     },
     {
+      "id": "JF-KBQ1KGUuSW8",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Federal Police Think Exercising Right To Remain Silent Is A Crime"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-12-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-KBQ1KGUuSW8/first-amendment-audit-KBQ1KGUuSW8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 528000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-KBQ1KGUuSW8"
+          }
+        ]
+      }
+    },
+    {
       "id": "JF-KuBFvHsBNOg",
       "type": "shortForm",
       "titles": [
@@ -13019,6 +14123,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-UeZ-RDZnIbs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-VlpjWrjoKtQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Cop Admits In Deposition He Had No Knowledge Of What He Wrote In His Report"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-11-10",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-VlpjWrjoKtQ/first-amendment-audit-VlpjWrjoKtQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1170000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-VlpjWrjoKtQ"
           }
         ]
       }
@@ -13438,6 +14588,98 @@
       }
     },
     {
+      "id": "JF-h0zTELtYKzk",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Officer Allen With Mesa Police Exposed As A Predator!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2021-03-12",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-h0zTELtYKzk/first-amendment-audit-h0zTELtYKzk_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1239000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-h0zTELtYKzk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-hRqNgD1YUME",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Cops Always Regret Pulling This Guy Over"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-01-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-hRqNgD1YUME/first-amendment-audit-hRqNgD1YUME_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 795000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-hRqNgD1YUME"
+          }
+        ]
+      }
+    },
+    {
       "id": "JF-i6X177agop0",
       "type": "tvspecial",
       "titles": [
@@ -13525,6 +14767,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-k7IWevEvMt4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-nsIaH7NlUk8",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Most Disrespectful Public Employee You've Ever Seen! NM Ethics Commission"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-09-05",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-nsIaH7NlUk8/first-amendment-audit-nsIaH7NlUk8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2150000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-nsIaH7NlUk8"
           }
         ]
       }
@@ -14864,6 +16152,52 @@
       }
     },
     {
+      "id": "KN-SSn7CqEEv7s",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "TRESPASSED FOR PHOTOGRAPHY! - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-01-13",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-SSn7CqEEv7s/first-amendment-audit-SSn7CqEEv7s_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1214000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-SSn7CqEEv7s"
+          }
+        ]
+      }
+    },
+    {
       "id": "KN-TFd6OTgNZE0",
       "type": "tvspecial",
       "titles": [
@@ -14905,6 +16239,98 @@
             "license": "free",
             "quality": "hd",
             "playId": "KN-TFd6OTgNZE0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KN-UfX4Ya2yP7Q",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "PARANOIA & SCHMUCKS ABOUND IN MARIPOSA, CA - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-01-30",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-UfX4Ya2yP7Q/first-amendment-audit-UfX4Ya2yP7Q_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2126000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-UfX4Ya2yP7Q"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KN-WlDpMj25M8w",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "OUR FIRST (AND PROBABLY LAST) SILENT AUDIT - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-02-14",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-WlDpMj25M8w/first-amendment-audit-WlDpMj25M8w_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1384000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-WlDpMj25M8w"
           }
         ]
       }
@@ -15324,6 +16750,52 @@
       }
     },
     {
+      "id": "KN-j2k89uQ0twU",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“YOU CAN GET IN TROUBLE DOING THAT.” -First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-01-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-j2k89uQ0twU/first-amendment-audit-j2k89uQ0twU_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1152000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-j2k89uQ0twU"
+          }
+        ]
+      }
+    },
+    {
       "id": "KN-jvY_lXwLfIA",
       "type": "tvspecial",
       "titles": [
@@ -15687,6 +17159,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "KN-m9XQ89-B0f0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KN-mWD6xkm_FHA",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Death Valley and The Death of Our Rights in California - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-11-19",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-mWD6xkm_FHA/first-amendment-audit-mWD6xkm_FHA_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1978000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-mWD6xkm_FHA"
           }
         ]
       }
@@ -16382,6 +17900,52 @@
       }
     },
     {
+      "id": "KN-zQAd3lIsxtc",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "BEING SUSPICIOUS COULD BE A FELONY - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-zQAd3lIsxtc/first-amendment-audit-zQAd3lIsxtc_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 4334000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-zQAd3lIsxtc"
+          }
+        ]
+      }
+    },
+    {
       "id": "NHN--Eax7jK73t4",
       "type": "tvspecial",
       "titles": [
@@ -16607,6 +18171,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-2UiotVoqSlY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-3qQ3QjHLSk4",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "FORMER CHARLESTOWN, NH *FIREMAN GETS SCHOOLED* ON PHOTOGRAPHY *DISMISSED* WALK OF SHAME PRESS NH NOW"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-04-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-3qQ3QjHLSk4/first-amendment-audit-3qQ3QjHLSk4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 831000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-3qQ3QjHLSk4"
           }
         ]
       }
@@ -17486,6 +19096,52 @@
       }
     },
     {
+      "id": "NHN-DCkymndrscE",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "*LADY GOES CRAZY* ON ME IN CUFFS OVER CAMERA CLAREMONT, NH COPWATCH PRESS NH NOW"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-04-13",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-DCkymndrscE/first-amendment-audit-DCkymndrscE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 663000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-DCkymndrscE"
+          }
+        ]
+      }
+    },
+    {
       "id": "NHN-DHqIV2R46cM",
       "type": "tvspecial",
       "titles": [
@@ -17941,6 +19597,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-HarB_fqtP1o"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-HcKN55lXiGA",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "*PARKING TICKET ISSUED* RULES FOR THEE BUT NOT FOR ME NH STATE POLICE PRESS NH NOW CLAREMONT, NH"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-04-18",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-HcKN55lXiGA/first-amendment-audit-HcKN55lXiGA_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 717000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-HcKN55lXiGA"
           }
         ]
       }
@@ -19280,6 +20982,52 @@
       }
     },
     {
+      "id": "NHN-TaQtGcnAh0s",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "SECURITY MANAGEMENT *OWNED* DISMISSED (NO SIGNS) 1ST AMENDMENT AUDIT PRESS NH NOW SEABROOK, NH"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-03-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1414000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-TaQtGcnAh0s"
+          }
+        ]
+      }
+    },
+    {
       "id": "NHN-TksEeAv6LFI",
       "type": "tvspecial",
       "titles": [
@@ -19597,6 +21345,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-V2A-rL9MmSM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-VUZtTGfZUgY",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "*SHOCKING VIDEO* SUSPECT GETS TASED/WHAT'S YOUR NAME AND BADGE# IMPERSONATING A COP CLAREMONT, NH"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-04-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-VUZtTGfZUgY/first-amendment-audit-VUZtTGfZUgY_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 934000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-VUZtTGfZUgY"
           }
         ]
       }
@@ -22730,6 +24524,52 @@
       }
     },
     {
+      "id": "NHN-xwBU18GUMoE",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "*KAREN DEMANDS* THAT I STOP RECORDING GETS *CHECKED* BY PRESS NH NOW 1ST AMENDMENT CLAREMONT, NH"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-04-25",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-xwBU18GUMoE/first-amendment-audit-xwBU18GUMoE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 534000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-xwBU18GUMoE"
+          }
+        ]
+      }
+    },
+    {
       "id": "NHN-yOVa4wkZMBU",
       "type": "tvspecial",
       "titles": [
@@ -22771,6 +24611,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-yOVa4wkZMBU"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-yceOBcfrm94",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "*UPDATE* CHARLESTOWN, NH RETALIATORY TRAFFIC STOP PRESS NH NOW 1ST AMENDMENT AUDIT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-03-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-yceOBcfrm94/first-amendment-audit-yceOBcfrm94_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 968000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-yceOBcfrm94"
           }
         ]
       }
@@ -23052,6 +24938,52 @@
       }
     },
     {
+      "id": "TA-3EvbZTNVMPI",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Walking Around Town With This Guy!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-11-24",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-3EvbZTNVMPI/first-amendment-audit-3EvbZTNVMPI_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 846000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-3EvbZTNVMPI"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-3c67pzIx4uU",
       "type": "shortForm",
       "titles": [
@@ -23190,6 +25122,52 @@
       }
     },
     {
+      "id": "TA-7cUfVGvi-Vo",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "I Was NOT Expecting This While Filming In Public!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-01",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-7cUfVGvi-Vo/first-amendment-audit-7cUfVGvi-Vo_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 877000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-7cUfVGvi-Vo"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-9U-oYM8Umnc",
       "type": "shortForm",
       "titles": [
@@ -23323,6 +25301,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TA-BjshBwdkJPg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TA-CNT0odMDIVE",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "A Unique Artist Films in Public. *Interesting Reactions*"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-09-15",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-CNT0odMDIVE/first-amendment-audit-CNT0odMDIVE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 629000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-CNT0odMDIVE"
           }
         ]
       }
@@ -23972,6 +25996,98 @@
       }
     },
     {
+      "id": "TA-h0dFyF_yNHE",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Filming in a Beautiful Town and THIS Happened!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-18",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-h0dFyF_yNHE/first-amendment-audit-h0dFyF_yNHE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 524000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-h0dFyF_yNHE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TA-hBlPjaDV-pk",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Angry Guy FREAKS OUT Over My Camera!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-hBlPjaDV-pk/first-amendment-audit-hBlPjaDV-pk_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 806000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-hBlPjaDV-pk"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-i1wkBht41eY",
       "type": "tvspecial",
       "titles": [
@@ -24013,6 +26129,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TA-i1wkBht41eY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TA-i9ghdBWjzz8",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "People Reacting to me Filming in Public!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-11-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-i9ghdBWjzz8/first-amendment-audit-i9ghdBWjzz8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1150000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-i9ghdBWjzz8"
           }
         ]
       }
@@ -24846,6 +27008,52 @@
       }
     },
     {
+      "id": "TTA-6O1a_3KCeZs",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "TERMINATED OR RESIGNED? SHOCKING REVELATION-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-06-03",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-6O1a_3KCeZs/first-amendment-audit-6O1a_3KCeZs_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1673000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-6O1a_3KCeZs"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-6swEq9cLn9Y",
       "type": "tvspecial",
       "titles": [
@@ -25582,6 +27790,52 @@
       }
     },
     {
+      "id": "TTA-H5SoF76Aveg",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "WE’RE ASKING YOU TO LEAVE!!”- UNBELIEVABLE-SHOCKING-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-30",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-H5SoF76Aveg/first-amendment-audit-H5SoF76Aveg_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2081000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-H5SoF76Aveg"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-HD60QprcnAU",
       "type": "tvspecial",
       "titles": [
@@ -26037,6 +28291,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-MQ8nWnAcn80"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-Mg52otnGhYM",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "KAREN PROMISED TO CALL THE AUTHORITIES-UNBELIEVABLE-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-23",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-Mg52otnGhYM/first-amendment-audit-Mg52otnGhYM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 966000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-Mg52otnGhYM"
           }
         ]
       }
@@ -28572,6 +30872,52 @@
       }
     },
     {
+      "id": "TTA-pNw47DUgHhc",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“THEY SAY YOU WERE RECORDING A PRIVATE EVENT”-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-28",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-pNw47DUgHhc/first-amendment-audit-pNw47DUgHhc_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1674000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-pNw47DUgHhc"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-pPSGCGZnvmU",
       "type": "tvspecial",
       "titles": [
@@ -29078,6 +31424,52 @@
       }
     },
     {
+      "id": "TTA-wQ_N_-V-1aU",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "THEY’VE BEEN TRAINED ABOUT IT,AND STILL WANNA INFRINGE-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-06-04",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-wQ_N_-V-1aU/first-amendment-audit-wQ_N_-V-1aU_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2303000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-wQ_N_-V-1aU"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-x6nwA7WttfY",
       "type": "tvspecial",
       "titles": [
@@ -29349,6 +31741,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-yQ7ft36kxU8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-z-k1XQNBDP0",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“YOU ARE INTIMIDATING GUEST”-UNBELIEVABLE-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-27",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-z-k1XQNBDP0/first-amendment-audit-z-k1XQNBDP0_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1858000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-z-k1XQNBDP0"
           }
         ]
       }
