@@ -98,6 +98,52 @@
       }
     },
     {
+      "id": "AT-Ex2f2hhrhc8",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Citizen Auditor Walks In… Government Employees Get a FREE Lesson in the LAW!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-23",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-Ex2f2hhrhc8/first-amendment-audit-Ex2f2hhrhc8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 866000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-Ex2f2hhrhc8"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-QoOx6H0V9uQ",
       "type": "shortForm",
       "titles": [
@@ -139,6 +185,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "AT-QoOx6H0V9uQ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-V_SPWCTLIQI",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Possibly the RUDEST Government Employees I've Encountered in YEARS!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-10-22",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1718000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-V_SPWCTLIQI"
           }
         ]
       }
@@ -23926,6 +24018,52 @@
       }
     },
     {
+      "id": "TA-qdTVXDCft8s",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "I Was Exploring a Town and THIS Happened!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-22",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 926000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-qdTVXDCft8s"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-rJxfJNVZKek",
       "type": "shortForm",
       "titles": [
@@ -24887,6 +25025,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-7pDMkEATCpM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-81WtGtyvp7s",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“ASKED YOU TO STOP RECORDING ME,BUT YOU’RE STILL DOING IT”-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-06-06",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2011000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-81WtGtyvp7s"
           }
         ]
       }
