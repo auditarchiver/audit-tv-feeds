@@ -26410,6 +26410,52 @@
       }
     },
     {
+      "id": "TA-zpthw7i4HRM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Emo Films in Public"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-09-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-zpthw7i4HRM/first-amendment-audit-zpthw7i4HRM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 700000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-zpthw7i4HRM"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA--6XU18HOhTc",
       "type": "tvspecial",
       "titles": [
@@ -28383,6 +28429,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-MjJc87LrLnk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-NPM4CAenNSw",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "DEMANDING SECURITY  FLAT OUT LIE-3 COPS SHOW UP-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-21",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1473000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-NPM4CAenNSw"
           }
         ]
       }
