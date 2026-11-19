@@ -36703,6 +36703,21 @@
     },
     {
       "id": "110",
+      "name": "Audit Them",
+      "creator_id": "audit-them",
+      "description": "First Amendment auditing videos",
+      "video_ids": [
+        "AT-ymNoSfr15Eo",
+        "AT-o_Do69GfnUU",
+        "AT-QoOx6H0V9uQ",
+        "AT-AaIiUevkcT4",
+        "AT-6vxM3rjz-oE"
+      ],
+      "category": "Audits",
+      "icon_url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+    },
+    {
+      "id": "111",
       "name": "Amagansett Press",
       "description": "Full creator archive: load MP4 results on first selection",
       "video_ids": [
@@ -36775,7 +36790,7 @@
       "icon_url": "pkg:/images/channels/amagansett-press.png"
     },
     {
-      "id": "111",
+      "id": "112",
       "name": "Bay Area Transparency",
       "description": "First Amendment audits — confirmed BAT direct MP4 source",
       "video_ids": [
@@ -36786,7 +36801,7 @@
       "creator_id": "bay-area-transparency"
     },
     {
-      "id": "112",
+      "id": "113",
       "name": "News Now Audit",
       "description": "Full creator archive: load MP4 results on first selection",
       "video_ids": [
@@ -36814,7 +36829,7 @@
       "icon_url": "pkg:/images/channels/news-now-audit.png"
     },
     {
-      "id": "113",
+      "id": "114",
       "name": "Freedom News Now",
       "description": "Full creator archive: load MP4 results on first selection",
       "video_ids": [
@@ -36893,21 +36908,6 @@
       "category": "Audits",
       "creator_id": "freedom-news-now",
       "icon_url": "pkg:/images/channels/freedom-news-now.png"
-    },
-    {
-      "id": "114",
-      "name": "Audit Them",
-      "creator_id": "audit-them",
-      "description": "First Amendment auditing videos",
-      "video_ids": [
-        "AT-ymNoSfr15Eo",
-        "AT-o_Do69GfnUU",
-        "AT-QoOx6H0V9uQ",
-        "AT-AaIiUevkcT4",
-        "AT-6vxM3rjz-oE"
-      ],
-      "category": "Audits",
-      "icon_url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
     },
     {
       "id": "190",
