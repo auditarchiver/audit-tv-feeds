@@ -236,6 +236,52 @@
       }
     },
     {
+      "id": "AT-CQqVkQsEyfQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "When Public Access Goes Wrong | First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-07-12",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-CQqVkQsEyfQ/first-amendment-audit-CQqVkQsEyfQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1653000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "sd",
+            "playId": "AT-CQqVkQsEyfQ"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-ClA5Zt0BHWw",
       "type": "tvspecial",
       "titles": [
@@ -9574,6 +9620,52 @@
       }
     },
     {
+      "id": "GGA-gMrpDQO0SFE",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "IDC HOW I SPEAK TO YOU !"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-11",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-gMrpDQO0SFE/first-amendment-audit-gMrpDQO0SFE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 679000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-gMrpDQO0SFE"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-gaJSiMudjiI",
       "type": "tvspecial",
       "titles": [
@@ -12886,6 +12978,52 @@
       }
     },
     {
+      "id": "HCRI-oHD-ZCevGdo",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Notice Of Intent To Sue-Waveland & Ocean Springs."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-02-20",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-oHD-ZCevGdo/first-amendment-audit-oHD-ZCevGdo_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 327000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-oHD-ZCevGdo"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-ogj3M5rBqPg",
       "type": "shortForm",
       "titles": [
@@ -12973,6 +13111,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "HCRI-pBOpsiVxp8s"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-pU8fQNiwV78",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "⚠️UPDATE⚠️ BANNED AND ARRESTED."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-01-09",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-pU8fQNiwV78/first-amendment-audit-pU8fQNiwV78_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 507000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-pU8fQNiwV78"
           }
         ]
       }
@@ -14997,6 +15181,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-aGZfZedBC0w"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-bNwNsiNSzMM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Sheriff Stops The Wrong Van, But Still Wants ID"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-03-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-bNwNsiNSzMM/first-amendment-audit-bNwNsiNSzMM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 451000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-bNwNsiNSzMM"
           }
         ]
       }
