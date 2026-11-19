@@ -98,6 +98,52 @@
       }
     },
     {
+      "id": "AT-7lXTi9j3D4A",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "I inspected a 187 million dollar operation, and I asked these questions..."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-08-03",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-7lXTi9j3D4A/first-amendment-audit-7lXTi9j3D4A_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1778000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-7lXTi9j3D4A"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-AaIiUevkcT4",
       "type": "shortForm",
       "titles": [
@@ -328,6 +374,52 @@
       }
     },
     {
+      "id": "AT-MOG_lFSYLo4",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Pass the County Line WAV"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-07-26",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-MOG_lFSYLo4/first-amendment-audit-MOG_lFSYLo4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 217000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-MOG_lFSYLo4"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-QoOx6H0V9uQ",
       "type": "shortForm",
       "titles": [
@@ -369,6 +461,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "AT-QoOx6H0V9uQ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AT-Rj1BEH8v1HE",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "A couple million dollars and a inquiry"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-08-05",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-Rj1BEH8v1HE/first-amendment-audit-Rj1BEH8v1HE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1617000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-Rj1BEH8v1HE"
           }
         ]
       }
@@ -558,6 +696,52 @@
       }
     },
     {
+      "id": "AT-rufiVDbluI8",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Auditing a 229 million operation, at City Hall in this happens"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-08-05",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-rufiVDbluI8/first-amendment-audit-rufiVDbluI8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1740000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-rufiVDbluI8"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-t-uNM2rIv5M",
       "type": "tvspecial",
       "titles": [
@@ -727,7 +911,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/12D3GMl1nT8/thumbnail-59450b05bf06.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-12D3GMl1nT8/first-amendment-audit-12D3GMl1nT8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 956000,
@@ -819,7 +1003,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/4TvWa2q3iMg/thumbnail-22421918e707.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-4TvWa2q3iMg/first-amendment-audit-4TvWa2q3iMg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 377000,
@@ -911,7 +1095,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/52d1xvsY6UI/thumbnail-6ffcf7437ef3.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-52d1xvsY6UI/first-amendment-audit-52d1xvsY6UI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 947000,
@@ -957,7 +1141,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/5AyMU5mHJgg/thumbnail-7762461be085.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-5AyMU5mHJgg/first-amendment-audit-5AyMU5mHJgg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 655000,
@@ -1049,7 +1233,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/6EDzCDFHp0M/thumbnail-6b0a51449a87.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-6EDzCDFHp0M/first-amendment-audit-6EDzCDFHp0M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 962000,
@@ -1141,7 +1325,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/7WZVC5sdss4/thumbnail-8d2ebd2c4bcb.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-7WZVC5sdss4/first-amendment-audit-7WZVC5sdss4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 759000,
@@ -1187,7 +1371,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/8SFLiMMEgDw/thumbnail-7872d38bd55c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-8SFLiMMEgDw/first-amendment-audit-8SFLiMMEgDw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 482000,
@@ -1463,7 +1647,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/9zGqEpIjxDo/thumbnail-a1e5a3ebec65.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-9zGqEpIjxDo/first-amendment-audit-9zGqEpIjxDo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 51000,
@@ -1647,7 +1831,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/C_rus_l4894/thumbnail-afbb1098ec80.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-C_rus_l4894/first-amendment-audit-C_rus_l4894_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1119000,
@@ -1693,7 +1877,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/D9-carOrbbo/thumbnail-3c2dd58a813e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-D9-carOrbbo/first-amendment-audit-D9-carOrbbo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1268000,
@@ -1739,7 +1923,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/EG4DVrxr84c/thumbnail-4f03c1476db7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-EG4DVrxr84c/first-amendment-audit-EG4DVrxr84c_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 951000,
@@ -1831,7 +2015,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/EUmr3pLeeYM/thumbnail-dbacdab9dbb9.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-EUmr3pLeeYM/first-amendment-audit-EUmr3pLeeYM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 50000,
@@ -1877,7 +2061,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/Ez7v_HtY84c/thumbnail-f17e64b7c528.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Ez7v_HtY84c/first-amendment-audit-Ez7v_HtY84c_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1423000,
@@ -2015,7 +2199,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/GhGrK7JcnPs/thumbnail-a1b46b02ba2e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-GhGrK7JcnPs/first-amendment-audit-GhGrK7JcnPs_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 396000,
@@ -2107,7 +2291,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/H2GRUdx3vzM/thumbnail-5f5c321b8b9b.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-H2GRUdx3vzM/first-amendment-audit-H2GRUdx3vzM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 370000,
@@ -2199,7 +2383,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/HBuQh2PsNQI/thumbnail-adfb0ac85530.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HBuQh2PsNQI/first-amendment-audit-HBuQh2PsNQI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1445000,
@@ -2475,7 +2659,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/JsZcF2BH6nQ/thumbnail-140d49f64667.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-JsZcF2BH6nQ/first-amendment-audit-JsZcF2BH6nQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 39000,
@@ -2751,7 +2935,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/Nzpd0xLapMc/thumbnail-9f7f2518e83c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Nzpd0xLapMc/first-amendment-audit-Nzpd0xLapMc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 866000,
@@ -2797,7 +2981,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/OMb_uUgakFE/thumbnail-ae9edd2e226a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-OMb_uUgakFE/first-amendment-audit-OMb_uUgakFE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 490000,
@@ -2843,7 +3027,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/O_nX17hh-3M/thumbnail-887f3d4c8084.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-O_nX17hh-3M/first-amendment-audit-O_nX17hh-3M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 712000,
@@ -3073,7 +3257,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/Se97-zLrpNA/thumbnail-3bcf9cf1923c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Se97-zLrpNA/first-amendment-audit-Se97-zLrpNA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1013000,
@@ -3211,7 +3395,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/UnG3okfWE30/thumbnail-114f62a4fda4.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-UnG3okfWE30/first-amendment-audit-UnG3okfWE30_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 24000,
@@ -3625,7 +3809,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/Zdx3N01Nb6o/thumbnail-2e4490271528.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Zdx3N01Nb6o/first-amendment-audit-Zdx3N01Nb6o_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1268000,
@@ -3717,7 +3901,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/_GbVG1glptA/thumbnail-00c63a112ffe.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-_GbVG1glptA/first-amendment-audit-_GbVG1glptA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 878000,
@@ -3855,7 +4039,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/afRmjhH-L9Q/thumbnail-448619a08a30.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-afRmjhH-L9Q/first-amendment-audit-afRmjhH-L9Q_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 495000,
@@ -3901,7 +4085,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/aoQM2QN3aM8/thumbnail-fa4e10ebaeea.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-aoQM2QN3aM8/first-amendment-audit-aoQM2QN3aM8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 178000,
@@ -3947,7 +4131,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/bSW_VQFKAUY/thumbnail-2878144a4f84.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-bSW_VQFKAUY/first-amendment-audit-bSW_VQFKAUY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 845000,
@@ -3993,7 +4177,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/bn-UU2X4qMg/thumbnail-e69ce27b7692.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-bn-UU2X4qMg/first-amendment-audit-bn-UU2X4qMg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 483000,
@@ -4177,7 +4361,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/dQJ5h6ZwoLc/thumbnail-1722e4619b8e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-dQJ5h6ZwoLc/first-amendment-audit-dQJ5h6ZwoLc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1229000,
@@ -4315,7 +4499,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/ggRz1iyoGHY/thumbnail-aa8eb65c066c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ggRz1iyoGHY/first-amendment-audit-ggRz1iyoGHY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 482000,
@@ -4499,7 +4683,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/mT4gzqsRq44/thumbnail-0dbf22a1d410.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-mT4gzqsRq44/first-amendment-audit-mT4gzqsRq44_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1070000,
@@ -4683,7 +4867,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/qVv-8Sd2hl8/thumbnail-abf6629032f5.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-qVv-8Sd2hl8/first-amendment-audit-qVv-8Sd2hl8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2035000,
@@ -4729,7 +4913,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/qWyT1ZGBcLo/thumbnail-5964c7e7db63.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-qWyT1ZGBcLo/first-amendment-audit-qWyT1ZGBcLo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 743000,
@@ -4775,7 +4959,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/rzBZwuNe-tg/thumbnail-b9cad9de2d45.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-rzBZwuNe-tg/first-amendment-audit-rzBZwuNe-tg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1343000,
@@ -4821,7 +5005,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/s0TVAETRva8/thumbnail-b31afeed10c8.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-s0TVAETRva8/first-amendment-audit-s0TVAETRva8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 696000,
@@ -5051,7 +5235,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/tqNmn4Axhos/thumbnail-1df04cc5082f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-tqNmn4Axhos/first-amendment-audit-tqNmn4Axhos_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2012000,
@@ -5143,7 +5327,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/uZmCURIREgE/thumbnail-0f6a9848d2f1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-uZmCURIREgE/first-amendment-audit-uZmCURIREgE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 552000,
@@ -5189,7 +5373,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/ufHSkvdHA0Q/thumbnail-e2053835302d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ufHSkvdHA0Q/first-amendment-audit-ufHSkvdHA0Q_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 5185000,
@@ -5235,7 +5419,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/ukgCgeUjrDc/thumbnail-6d769292729a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ukgCgeUjrDc/first-amendment-audit-ukgCgeUjrDc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 7240000,
@@ -5373,7 +5557,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/wg_HnQIca6I/thumbnail-b4587d528e1f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-wg_HnQIca6I/first-amendment-audit-wg_HnQIca6I_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 519000,
@@ -5511,7 +5695,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/xljYH2NBXmM/thumbnail-a1094a7ebd14.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-xljYH2NBXmM/first-amendment-audit-xljYH2NBXmM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1192000,
@@ -5603,7 +5787,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/y0aOvKQMjgw/thumbnail-a9b8c9af5c75.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-y0aOvKQMjgw/first-amendment-audit-y0aOvKQMjgw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 967000,
@@ -5649,7 +5833,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/yln7iTbvo5o/thumbnail-4d7638262c68.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-yln7iTbvo5o/first-amendment-audit-yln7iTbvo5o_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 812000,
@@ -5695,7 +5879,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/ym5omjubvWs/thumbnail-9110a5a4a01a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ym5omjubvWs/first-amendment-audit-ym5omjubvWs_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 651000,
@@ -5787,7 +5971,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/flex-your-freedoms/zt94oODF2-g/thumbnail-036292c69326.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-zt94oODF2-g/first-amendment-audit-zt94oODF2-g_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 366000,
@@ -5925,7 +6109,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/0bL3P2g6Z68/thumbnail-f2645b6650ed.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-0bL3P2g6Z68/first-amendment-audit-0bL3P2g6Z68_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 904000,
@@ -6109,7 +6293,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/1QzSYo_NVvY/thumbnail-58807985f8c1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-1QzSYo_NVvY/first-amendment-audit-1QzSYo_NVvY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 653000,
@@ -6247,7 +6431,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/2_tJZg1X7QU/thumbnail-5d971f2629df.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-2_tJZg1X7QU/first-amendment-audit-2_tJZg1X7QU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 882000,
@@ -6477,7 +6661,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/6PJNIaF4fjQ/thumbnail-78c2f30fa0cb.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-6PJNIaF4fjQ/first-amendment-audit-6PJNIaF4fjQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1265000,
@@ -6523,7 +6707,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/6eWHJuYS0x8/thumbnail-80341850a7f8.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-6eWHJuYS0x8/first-amendment-audit-6eWHJuYS0x8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1559000,
@@ -6615,7 +6799,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/7MEyR3t_4v4/thumbnail-8b9df6cc74f7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-7MEyR3t_4v4/first-amendment-audit-7MEyR3t_4v4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 515000,
@@ -6799,7 +6983,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/Bu-PVZq5VWY/thumbnail-b711488978d8.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Bu-PVZq5VWY/first-amendment-audit-Bu-PVZq5VWY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1077000,
@@ -6845,7 +7029,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/D8QhPTjDbxg/thumbnail-623b73e1319a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-D8QhPTjDbxg/first-amendment-audit-D8QhPTjDbxg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 322000,
@@ -6891,7 +7075,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-D8gEX16TRK0/first-amendment-audit-D8gEX16TRK0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 763000,
@@ -7029,7 +7213,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/F8CGFoeBY4M/thumbnail-cad04fc7d16d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-F8CGFoeBY4M/first-amendment-audit-F8CGFoeBY4M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 283000,
@@ -7075,7 +7259,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/F_kA_ewZ_zE/thumbnail-4f992548c3fb.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-F_kA_ewZ_zE/first-amendment-audit-F_kA_ewZ_zE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1695000,
@@ -7167,7 +7351,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-GsXiJUCpzog/first-amendment-audit-GsXiJUCpzog_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 760000,
@@ -7305,7 +7489,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-K0weQUG_bEw/first-amendment-audit-K0weQUG_bEw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 759000,
@@ -7397,7 +7581,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/KKGYn0yIjNo/thumbnail-2c47f84cff0d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-KKGYn0yIjNo/first-amendment-audit-KKGYn0yIjNo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 990000,
@@ -7535,7 +7719,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/L8Pr--F8O3U/thumbnail-cd63d049220f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-L8Pr--F8O3U/first-amendment-audit-L8Pr--F8O3U_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 434000,
@@ -7627,7 +7811,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/MFlsuOodQlg/thumbnail-19ce5bc6aa61.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-MFlsuOodQlg/first-amendment-audit-MFlsuOodQlg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 738000,
@@ -7765,7 +7949,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-NPiHEVQahVA/first-amendment-audit-NPiHEVQahVA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 703000,
@@ -8041,7 +8225,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/RTAc6zTyJvA/thumbnail-9224d96d2ba4.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-RTAc6zTyJvA/first-amendment-audit-RTAc6zTyJvA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1222000,
@@ -8501,7 +8685,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/VY0PwhGj3zA/thumbnail-7d89d5b29eba.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-VY0PwhGj3zA/first-amendment-audit-VY0PwhGj3zA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 421000,
@@ -8869,7 +9053,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Z_ub_p-4d_M/first-amendment-audit-Z_ub_p-4d_M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 771000,
@@ -8915,7 +9099,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ZaPIl88YQcE/first-amendment-audit-ZaPIl88YQcE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 905000,
@@ -9007,7 +9191,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-bfnF1fENHWY/first-amendment-audit-bfnF1fENHWY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 769000,
@@ -9053,7 +9237,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/c3WrnVIH6w8/thumbnail-7f0e03392a7b.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-c3WrnVIH6w8/first-amendment-audit-c3WrnVIH6w8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 310000,
@@ -9155,6 +9339,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-czkUiAGQppc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-eG153zJh0Zk",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "THIS COP DOES’NT SPEAK ENGLISH BUT KNOWS THE LAW? | GIVE ME YOUR ID"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-eG153zJh0Zk/first-amendment-audit-eG153zJh0Zk_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 390000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-eG153zJh0Zk"
           }
         ]
       }
@@ -9283,7 +9513,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/erBRvmwnWbw/thumbnail-6f30baf45504.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-erBRvmwnWbw/first-amendment-audit-erBRvmwnWbw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1947000,
@@ -9421,7 +9651,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/h76gUazwYG4/thumbnail-1582f97421be.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-h76gUazwYG4/first-amendment-audit-h76gUazwYG4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 895000,
@@ -9881,7 +10111,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-nR19jT5oUX0/first-amendment-audit-nR19jT5oUX0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 766000,
@@ -10479,7 +10709,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/t3lkHvKnSWE/thumbnail-1e30bf0dd8fe.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-t3lkHvKnSWE/first-amendment-audit-t3lkHvKnSWE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 843000,
@@ -10535,6 +10765,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-tJyktt4JKGc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-ti3h4uSgzAk",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "THESE COPS ACT OUTSIDE OF THEIR POWER"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-15",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-ti3h4uSgzAk/first-amendment-audit-ti3h4uSgzAk_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 377000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-ti3h4uSgzAk"
           }
         ]
       }
@@ -10678,6 +10954,52 @@
       }
     },
     {
+      "id": "GGA-v4ZjP4w2zAQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "BEWARE OF FEMALE POLICE OFFICERS,THEY TREAT YOU LIKE THIS !"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-22",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-v4ZjP4w2zAQ/first-amendment-audit-v4ZjP4w2zAQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1896000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-v4ZjP4w2zAQ"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-w3AGFIGTp8U",
       "type": "shortForm",
       "titles": [
@@ -10755,7 +11077,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/wH1BrCnH01M/thumbnail-8edcbd41afcb.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-wH1BrCnH01M/first-amendment-audit-wH1BrCnH01M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1285000,
@@ -10811,6 +11133,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "GGA-x8r_TJ2N_fc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GGA-yk_1he16deM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "HOW CAN A COP MESS UP THIS BAD !?"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-12-19",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-yk_1he16deM/first-amendment-audit-yk_1he16deM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 167000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-yk_1he16deM"
           }
         ]
       }
@@ -10939,7 +11307,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/good-guy-activism/ziA17UmEz4U/thumbnail-a5ca9ae4f431.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ziA17UmEz4U/first-amendment-audit-ziA17UmEz4U_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 338000,
@@ -11087,6 +11455,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "HCRI-7-vA239sAF8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-85vyu2xZ_U4",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "You Can’t Appear Homeless."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-04-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-85vyu2xZ_U4/first-amendment-audit-85vyu2xZ_U4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 549000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-85vyu2xZ_U4"
           }
         ]
       }
@@ -12564,6 +12978,52 @@
       }
     },
     {
+      "id": "HCRI-q0GKthtMKOM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Our Ordinance Overrides The Constitution."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-09-30",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-q0GKthtMKOM/first-amendment-audit-q0GKthtMKOM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 564000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-q0GKthtMKOM"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-q1S8KvWGzIk",
       "type": "shortForm",
       "titles": [
@@ -12748,6 +13208,52 @@
       }
     },
     {
+      "id": "HCRI-wkFMnrNddAw",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Officer Luttrell-IA Interrogation"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-08-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-wkFMnrNddAw/first-amendment-audit-wkFMnrNddAw_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1661000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-wkFMnrNddAw"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-x59v_ioYbyQ",
       "type": "shortForm",
       "titles": [
@@ -12779,7 +13285,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-x59v_ioYbyQ/first-amendment-audit-x59v_ioYbyQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 612000,
@@ -13193,7 +13699,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-7cR_N0f-59k/first-amendment-audit-7cR_N0f-59k_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 765000,
@@ -13341,6 +13847,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-BhVi82AjqDE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-By3VXA6ZSxE",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Forced Interaction - Tucson Police Officer Shawn Ramsey Arrests Me To Force Narrative On Audience"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2020-10-04",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-By3VXA6ZSxE/first-amendment-audit-By3VXA6ZSxE_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1336000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-By3VXA6ZSxE"
           }
         ]
       }
@@ -14496,6 +15048,52 @@
       }
     },
     {
+      "id": "JF-fSJYmam_f7E",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "I Know You Stopped, But I Wrote You A Warning For Not Stopping - Sgt Erick Estrada"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-03-14",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-fSJYmam_f7E/first-amendment-audit-fSJYmam_f7E_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 506000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-fSJYmam_f7E"
+          }
+        ]
+      }
+    },
+    {
       "id": "JF-fX-KJ1bW0mg",
       "type": "tvspecial",
       "titles": [
@@ -14767,6 +15365,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "JF-k7IWevEvMt4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JF-kwsSEGkgOgI",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Judge Steven Privette Thinks He's A Legislator, Mindless Order Followers Obey Him"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2022-09-15",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-kwsSEGkgOgI/first-amendment-audit-kwsSEGkgOgI_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1569000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-kwsSEGkgOgI"
           }
         ]
       }
@@ -15692,6 +16336,52 @@
       }
     },
     {
+      "id": "KN-Hl4SPd2pRZg",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "IS PERMISSION REQUIRED TO TAKE PHOTOS IN THIS ARIZONA TOWN? - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-01-10",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-Hl4SPd2pRZg/first-amendment-audit-Hl4SPd2pRZg_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1654000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-Hl4SPd2pRZg"
+          }
+        ]
+      }
+    },
+    {
       "id": "KN-IFrHIOzp5B8",
       "type": "tvspecial",
       "titles": [
@@ -15815,7 +16505,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-N6n8fpGpwh8/first-amendment-audit-N6n8fpGpwh8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1399000,
@@ -17900,6 +18590,52 @@
       }
     },
     {
+      "id": "KN-xtV25iZ2wZM",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“DO YOU WANT TO PRESS CHARGES?” - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-21",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-xtV25iZ2wZM/first-amendment-audit-xtV25iZ2wZM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 3482000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-xtV25iZ2wZM"
+          }
+        ]
+      }
+    },
+    {
       "id": "KN-zQAd3lIsxtc",
       "type": "tvspecial",
       "titles": [
@@ -17977,7 +18713,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit--Eax7jK73t4/first-amendment-audit--Eax7jK73t4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1964000,
@@ -18161,7 +18897,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/2UiotVoqSlY/thumbnail-0c7a4848beb6.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-2UiotVoqSlY/first-amendment-audit-2UiotVoqSlY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1230000,
@@ -18253,7 +18989,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/3u3HtCECkV0/thumbnail-db6f9014003c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-3u3HtCECkV0/first-amendment-audit-3u3HtCECkV0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1903000,
@@ -18345,7 +19081,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/47cAhq13Y6I/thumbnail-b3912815a6a2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-47cAhq13Y6I/first-amendment-audit-47cAhq13Y6I_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2116000,
@@ -18483,7 +19219,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/4qX9U_shnO4/thumbnail-aaa248e1c813.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-4qX9U_shnO4/first-amendment-audit-4qX9U_shnO4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2465000,
@@ -18529,7 +19265,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/4tntoxRqkCM/thumbnail-cc036a0656b7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-4tntoxRqkCM/first-amendment-audit-4tntoxRqkCM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1351000,
@@ -18621,7 +19357,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/6LqdeQgiSTk/thumbnail-8e5a7811492e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-6LqdeQgiSTk/first-amendment-audit-6LqdeQgiSTk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1767000,
@@ -18713,7 +19449,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/7Hcv09sBtCg/thumbnail-95685e458ada.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-7Hcv09sBtCg/first-amendment-audit-7Hcv09sBtCg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1090000,
@@ -18851,7 +19587,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/91OBnHNF2FU/thumbnail-25b096abf958.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-91OBnHNF2FU/first-amendment-audit-91OBnHNF2FU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1136000,
@@ -18897,7 +19633,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Avp_ztUYNwk/thumbnail-661e7c32cd18.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Avp_ztUYNwk/first-amendment-audit-Avp_ztUYNwk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1101000,
@@ -18943,7 +19679,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/B1uG4x4joIE/thumbnail-500bed22c47f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-B1uG4x4joIE/first-amendment-audit-B1uG4x4joIE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2225000,
@@ -19035,7 +19771,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/CH5yqwU8RQw/thumbnail-a615939c7949.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-CH5yqwU8RQw/first-amendment-audit-CH5yqwU8RQw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1500000,
@@ -19081,7 +19817,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Czak-dkgS-A/thumbnail-aebfdf53c80d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Czak-dkgS-A/first-amendment-audit-Czak-dkgS-A_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1088000,
@@ -19173,7 +19909,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/DHqIV2R46cM/thumbnail-1889a4c399f1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-DHqIV2R46cM/first-amendment-audit-DHqIV2R46cM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2276000,
@@ -19219,7 +19955,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-DKVVpR9veQk/first-amendment-audit-DKVVpR9veQk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1745000,
@@ -19311,7 +20047,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/EAO71FzLFGg/thumbnail-4290af487aa0.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-EAO71FzLFGg/first-amendment-audit-EAO71FzLFGg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1340000,
@@ -19357,7 +20093,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/FM7EMwxctC4/thumbnail-78aa67d81c8d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-FM7EMwxctC4/first-amendment-audit-FM7EMwxctC4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1194000,
@@ -19403,7 +20139,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/FRq-aIXPLIs/thumbnail-16922b698d68.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-FRq-aIXPLIs/first-amendment-audit-FRq-aIXPLIs_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1051000,
@@ -19449,7 +20185,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/FTFZVDHzS3U/thumbnail-956d9de397c9.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-FTFZVDHzS3U/first-amendment-audit-FTFZVDHzS3U_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1451000,
@@ -19495,7 +20231,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/F_6Xx8lGZGg/thumbnail-9338e5118473.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-F_6Xx8lGZGg/first-amendment-audit-F_6Xx8lGZGg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1396000,
@@ -19587,7 +20323,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/HarB_fqtP1o/thumbnail-258f3b0dfdf8.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HarB_fqtP1o/first-amendment-audit-HarB_fqtP1o_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1510000,
@@ -19679,7 +20415,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/HkhZz_cFUEA/thumbnail-575005b49ded.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HkhZz_cFUEA/first-amendment-audit-HkhZz_cFUEA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2019000,
@@ -19725,7 +20461,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/IuDZm2GERtE/thumbnail-e7876a45bf1c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-IuDZm2GERtE/first-amendment-audit-IuDZm2GERtE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1320000,
@@ -19771,7 +20507,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/JUQqYf685Kw/thumbnail-dcfc28304ff9.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-JUQqYf685Kw/first-amendment-audit-JUQqYf685Kw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1851000,
@@ -19970,6 +20706,52 @@
       }
     },
     {
+      "id": "NHN-LGiV_wMqn0A",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "ROCHESTER, NH CITY HALL *CALLS POLICE TWICE * I DON'T ANSWER QUESTIONS PRESS NH NOW 1ST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-02-01",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-LGiV_wMqn0A/first-amendment-audit-LGiV_wMqn0A_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1053000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-LGiV_wMqn0A"
+          }
+        ]
+      }
+    },
+    {
       "id": "NHN-LPT0GmWybfI",
       "type": "tvspecial",
       "titles": [
@@ -20047,7 +20829,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/LqdGyhua0pQ/thumbnail-4c8d3089d0ff.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-LqdGyhua0pQ/first-amendment-audit-LqdGyhua0pQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1513000,
@@ -20093,7 +20875,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/MKORy31IqSU/thumbnail-2d6633aab623.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-MKORy31IqSU/first-amendment-audit-MKORy31IqSU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 800000,
@@ -20139,7 +20921,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/MvnN8iE0TYY/thumbnail-9d3cbbcbfe74.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-MvnN8iE0TYY/first-amendment-audit-MvnN8iE0TYY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1776000,
@@ -20185,7 +20967,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/N4bk7iR85q4/thumbnail-fe2a231704b7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-N4bk7iR85q4/first-amendment-audit-N4bk7iR85q4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1530000,
@@ -20277,7 +21059,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-O72b8Mq4LZ8/first-amendment-audit-O72b8Mq4LZ8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1576000,
@@ -20369,7 +21151,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Oe0FI2R3nzs/thumbnail-7c54589ccbf6.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Oe0FI2R3nzs/first-amendment-audit-Oe0FI2R3nzs_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1729000,
@@ -20461,7 +21243,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/OvGy5n5kEOI/thumbnail-481a9437fe43.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-OvGy5n5kEOI/first-amendment-audit-OvGy5n5kEOI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1493000,
@@ -20507,7 +21289,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Oxedq3rQ3w8/thumbnail-9a8f7a80c105.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Oxedq3rQ3w8/first-amendment-audit-Oxedq3rQ3w8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1510000,
@@ -20645,7 +21427,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/QpXpuGr-ULg/thumbnail-16386d9573a6.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-QpXpuGr-ULg/first-amendment-audit-QpXpuGr-ULg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1555000,
@@ -20655,6 +21437,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-QpXpuGr-ULg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-RIMHAmqKUyo",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "BOARD MEMBER *GETS OWNED*  RINDGE, NH TOWN HALL 1ST AMENDMENT AUDIT PRESS NH NOW"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-02-09",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-RIMHAmqKUyo/first-amendment-audit-RIMHAmqKUyo_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1230000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-RIMHAmqKUyo"
           }
         ]
       }
@@ -20737,7 +21565,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/ShoCTEy_SNo/thumbnail-218d38d69997.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ShoCTEy_SNo/first-amendment-audit-ShoCTEy_SNo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 932000,
@@ -20921,7 +21749,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/TYkrB4zSRSg/thumbnail-4c82966f84cc.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-TYkrB4zSRSg/first-amendment-audit-TYkrB4zSRSg_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1818000,
@@ -20967,7 +21795,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/TYzy2buuZZc/thumbnail-8521b9686bb8.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-TYzy2buuZZc/first-amendment-audit-TYzy2buuZZc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1078000,
@@ -21105,7 +21933,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/TsznWZxjkn0/thumbnail-6bd18e1aa447.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-TsznWZxjkn0/first-amendment-audit-TsznWZxjkn0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1100000,
@@ -21151,7 +21979,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/U7Jbx2FUY-o/thumbnail-69fb33ffa682.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-U7Jbx2FUY-o/first-amendment-audit-U7Jbx2FUY-o_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1993000,
@@ -21197,7 +22025,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/U838xO5hFjE/thumbnail-8aababae8d44.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-U838xO5hFjE/first-amendment-audit-U838xO5hFjE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1855000,
@@ -21427,7 +22255,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Vr8uImVDuPo/thumbnail-4f471cab8c23.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Vr8uImVDuPo/first-amendment-audit-Vr8uImVDuPo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1413000,
@@ -21473,7 +22301,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/VylTxtw5yQw/thumbnail-abf19f64efbd.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-VylTxtw5yQw/first-amendment-audit-VylTxtw5yQw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1340000,
@@ -21519,7 +22347,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/XRzqFbI8q3E/thumbnail-43f105350ed0.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-XRzqFbI8q3E/first-amendment-audit-XRzqFbI8q3E_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1578000,
@@ -21565,7 +22393,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/YFPhPNNXOr8/thumbnail-cbe4b8bb9fdf.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-YFPhPNNXOr8/first-amendment-audit-YFPhPNNXOr8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1697000,
@@ -21611,7 +22439,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/YS3nT_7OyS4/thumbnail-85878594af54.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-YS3nT_7OyS4/first-amendment-audit-YS3nT_7OyS4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1171000,
@@ -21657,7 +22485,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/Z3LfyiAUSEA/thumbnail-62d0a0c48917.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Z3LfyiAUSEA/first-amendment-audit-Z3LfyiAUSEA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1901000,
@@ -21749,7 +22577,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-_7cBEYH4XSw/first-amendment-audit-_7cBEYH4XSw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2232000,
@@ -21795,7 +22623,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/a20dGKanH2I/thumbnail-b2c744630e4d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-a20dGKanH2I/first-amendment-audit-a20dGKanH2I_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1036000,
@@ -21841,7 +22669,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/afQaYUPPaAQ/thumbnail-668c615d28e1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-afQaYUPPaAQ/first-amendment-audit-afQaYUPPaAQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1739000,
@@ -21887,7 +22715,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/b5nyUfesBdY/thumbnail-13338535b3dd.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-b5nyUfesBdY/first-amendment-audit-b5nyUfesBdY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1452000,
@@ -21979,7 +22807,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/bSWTl9iP4pQ/thumbnail-3f4ffed02df6.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-bSWTl9iP4pQ/first-amendment-audit-bSWTl9iP4pQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 849000,
@@ -22025,7 +22853,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/bpWEY_HKaAY/thumbnail-1a7b37418dee.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-bpWEY_HKaAY/first-amendment-audit-bpWEY_HKaAY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1783000,
@@ -22209,7 +23037,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/dn5eGfK24_U/thumbnail-0a89979391bd.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-dn5eGfK24_U/first-amendment-audit-dn5eGfK24_U_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 952000,
@@ -22301,7 +23129,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/eyayTCwj3V8/thumbnail-17ea34de1454.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-eyayTCwj3V8/first-amendment-audit-eyayTCwj3V8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1422000,
@@ -22393,7 +23221,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/g5pznckPTOA/thumbnail-812a427b0883.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-g5pznckPTOA/first-amendment-audit-g5pznckPTOA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2002000,
@@ -22485,7 +23313,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/gM3aEBCUET8/thumbnail-6b2559021b1f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-gM3aEBCUET8/first-amendment-audit-gM3aEBCUET8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1339000,
@@ -22531,7 +23359,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/gdCWGuZdfyc/thumbnail-820fb30f1ff2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-gdCWGuZdfyc/first-amendment-audit-gdCWGuZdfyc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1035000,
@@ -22715,7 +23543,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/iF3pqHVlhMk/thumbnail-977825f65897.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-iF3pqHVlhMk/first-amendment-audit-iF3pqHVlhMk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1400000,
@@ -22853,7 +23681,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/juv47vfvK0I/thumbnail-41a853668043.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-juv47vfvK0I/first-amendment-audit-juv47vfvK0I_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1835000,
@@ -22991,7 +23819,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/kYeLUVi9fvU/thumbnail-a90c274e6468.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-kYeLUVi9fvU/first-amendment-audit-kYeLUVi9fvU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1021000,
@@ -23083,7 +23911,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/l5GieBLIJP0/thumbnail-df152e3123ee.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-l5GieBLIJP0/first-amendment-audit-l5GieBLIJP0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1350000,
@@ -23175,7 +24003,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/lvAabCm5a3k/thumbnail-7e25cff24f07.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-lvAabCm5a3k/first-amendment-audit-lvAabCm5a3k_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1826000,
@@ -23359,7 +24187,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/n0SdZH6iric/thumbnail-d01ddbf14146.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-n0SdZH6iric/first-amendment-audit-n0SdZH6iric_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 807000,
@@ -23405,7 +24233,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/nBGKAoSL7kI/thumbnail-65808ad37b57.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-nBGKAoSL7kI/first-amendment-audit-nBGKAoSL7kI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 860000,
@@ -23589,7 +24417,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/obhVnPeGxVo/thumbnail-40c0b24bffb3.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-obhVnPeGxVo/first-amendment-audit-obhVnPeGxVo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1847000,
@@ -23635,7 +24463,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ogAT7xAcL9c/first-amendment-audit-ogAT7xAcL9c_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1279000,
@@ -23727,7 +24555,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-peVUmAtxf-o/first-amendment-audit-peVUmAtxf-o_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1752000,
@@ -23773,7 +24601,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/prPFs1mqotU/thumbnail-e36f391855a4.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-prPFs1mqotU/first-amendment-audit-prPFs1mqotU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2289000,
@@ -23819,7 +24647,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/quuxTyGH7g8/thumbnail-5879938a1ccd.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-quuxTyGH7g8/first-amendment-audit-quuxTyGH7g8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1448000,
@@ -23865,7 +24693,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/rbt2Jjc-cfM/thumbnail-e30ec7237d02.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-rbt2Jjc-cfM/first-amendment-audit-rbt2Jjc-cfM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 960000,
@@ -23957,7 +24785,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/sCpehCGNT3s/thumbnail-db26942ea348.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-sCpehCGNT3s/first-amendment-audit-sCpehCGNT3s_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 720000,
@@ -24095,7 +24923,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/t-SJa6XpdMs/thumbnail-bb2654c7b7d5.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-t-SJa6XpdMs/first-amendment-audit-t-SJa6XpdMs_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1248000,
@@ -24141,7 +24969,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/tDrfoczzEdU/thumbnail-e635ea79a6d1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-tDrfoczzEdU/first-amendment-audit-tDrfoczzEdU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1730000,
@@ -24243,6 +25071,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "NHN-tQQ2p4MPwD8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NHN-tkPb8en0HlQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "*ID REFUSAL* NH STATE TROOPER *GETS DISMISSED* PRESS NH NOW 1ST AMENDMENT AUDIT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Press NH Now — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2023-02-07",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Press NH Now",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-tkPb8en0HlQ/first-amendment-audit-tkPb8en0HlQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 956000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "NHN-tkPb8en0HlQ"
           }
         ]
       }
@@ -24417,7 +25291,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-x3S08BMYqwo/first-amendment-audit-x3S08BMYqwo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1196000,
@@ -24509,7 +25383,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/xr5zNX9ZxnQ/thumbnail-4c8fdc869f48.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-xr5zNX9ZxnQ/first-amendment-audit-xr5zNX9ZxnQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1019000,
@@ -24693,7 +25567,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/yoUvqlAXxeM/thumbnail-26bc4e709dde.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-yoUvqlAXxeM/first-amendment-audit-yoUvqlAXxeM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2432000,
@@ -24739,7 +25613,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/yp5AMozD3RA/thumbnail-5a8056f24a65.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-yp5AMozD3RA/first-amendment-audit-yp5AMozD3RA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 975000,
@@ -24831,7 +25705,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/zlKNmFStsa0/thumbnail-fad67e46007d.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-zlKNmFStsa0/first-amendment-audit-zlKNmFStsa0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1651000,
@@ -24877,7 +25751,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/press-nh-now/zyX4IYt5XGk/thumbnail-3c4945d6add0.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-zyX4IYt5XGk/first-amendment-audit-zyX4IYt5XGk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2587000,
@@ -24923,7 +25797,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit--TH2rmGHwQA/first-amendment-audit--TH2rmGHwQA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1067000,
@@ -25015,7 +25889,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-3c67pzIx4uU/first-amendment-audit-3c67pzIx4uU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 542000,
@@ -25352,6 +26226,52 @@
       }
     },
     {
+      "id": "TA-CdsvREYlViw",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "I Met the King of First Amendment Audits"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-06-30",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-CdsvREYlViw/first-amendment-audit-CdsvREYlViw_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 511000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-CdsvREYlViw"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-GzDCTlAt0H4",
       "type": "tvspecial",
       "titles": [
@@ -25567,7 +26487,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-PekFeOe5Lmo/first-amendment-audit-PekFeOe5Lmo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 517000,
@@ -25613,7 +26533,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Prym_5rQY7A/first-amendment-audit-Prym_5rQY7A_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 738000,
@@ -25659,7 +26579,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-QbydFCTd5PE/first-amendment-audit-QbydFCTd5PE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 648000,
@@ -25705,7 +26625,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-R6mv93KSBGA/first-amendment-audit-R6mv93KSBGA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 509000,
@@ -25797,7 +26717,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-SVNxEhNbR-w/first-amendment-audit-SVNxEhNbR-w_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1154000,
@@ -25843,7 +26763,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-USIpGrkJjEQ/first-amendment-audit-USIpGrkJjEQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1349000,
@@ -25889,7 +26809,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-VTSrKmmRN1w/first-amendment-audit-VTSrKmmRN1w_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 856000,
@@ -25981,7 +26901,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-fQuXtKp-NLE/first-amendment-audit-fQuXtKp-NLE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 564000,
@@ -26180,6 +27100,52 @@
       }
     },
     {
+      "id": "TA-oc7ribKZVjM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "I Brought a Fishing Pole to the Library"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-07-17",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-oc7ribKZVjM/first-amendment-audit-oc7ribKZVjM_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 520000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-oc7ribKZVjM"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-qdTVXDCft8s",
       "type": "tvspecial",
       "titles": [
@@ -26226,6 +27192,52 @@
       }
     },
     {
+      "id": "TA-r3KXTrKpQN8",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "I Carried a Fishing Pole in Public.. This Happened"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Too Apree — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-06-23",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Too Apree",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-r3KXTrKpQN8/first-amendment-audit-r3KXTrKpQN8_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1081000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TA-r3KXTrKpQN8"
+          }
+        ]
+      }
+    },
+    {
       "id": "TA-rJxfJNVZKek",
       "type": "shortForm",
       "titles": [
@@ -26257,7 +27269,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-rJxfJNVZKek/first-amendment-audit-rJxfJNVZKek_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 768000,
@@ -26487,7 +27499,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit--6XU18HOhTc/first-amendment-audit--6XU18HOhTc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1939000,
@@ -26717,7 +27729,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/0t79KSEuIfY/thumbnail-a0dd724169d0.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-0t79KSEuIfY/first-amendment-audit-0t79KSEuIfY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1407000,
@@ -26809,7 +27821,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/1t6gDsG53e4/thumbnail-5f61cb1dfd87.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-1t6gDsG53e4/first-amendment-audit-1t6gDsG53e4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2166000,
@@ -27131,7 +28143,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/6swEq9cLn9Y/thumbnail-403694681b80.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-6swEq9cLn9Y/first-amendment-audit-6swEq9cLn9Y_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2244000,
@@ -27407,7 +28419,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/9ySuHdzcWcM/thumbnail-17664feb60e1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-9ySuHdzcWcM/first-amendment-audit-9ySuHdzcWcM_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1836000,
@@ -27560,6 +28572,52 @@
       }
     },
     {
+      "id": "TTA-BdhX9fsUol8",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "CALLED 911 ALL OVER A CAMERA-UNBELIEVABLE-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-14",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1129000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-BdhX9fsUol8"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-DDP_xDKR1xo",
       "type": "tvspecial",
       "titles": [
@@ -27591,7 +28649,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/DDP_xDKR1xo/thumbnail-f220cd086065.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-DDP_xDKR1xo/first-amendment-audit-DDP_xDKR1xo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2308000,
@@ -27637,7 +28695,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/DhUshBoa230/thumbnail-ab90c7aec9bf.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-DhUshBoa230/first-amendment-audit-DhUshBoa230_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1237000,
@@ -27729,7 +28787,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/E3qfc3V3WNo/thumbnail-ff523dc756a0.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-E3qfc3V3WNo/first-amendment-audit-E3qfc3V3WNo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2572000,
@@ -27821,7 +28879,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/GJzorcDxR2M/thumbnail-86907e08d95c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-GJzorcDxR2M/first-amendment-audit-GJzorcDxR2M_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1258000,
@@ -27913,7 +28971,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/HD60QprcnAU/thumbnail-c4d5d5234af3.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HD60QprcnAU/first-amendment-audit-HD60QprcnAU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1680000,
@@ -27959,7 +29017,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/HQ3QQk94dyo/thumbnail-43973b9f31fd.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HQ3QQk94dyo/first-amendment-audit-HQ3QQk94dyo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2144000,
@@ -28051,7 +29109,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/HqFIadxyKZk/thumbnail-0b5449d1d009.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-HqFIadxyKZk/first-amendment-audit-HqFIadxyKZk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1798000,
@@ -28097,7 +29155,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/ImIIF9mJpu8/thumbnail-1aaaf70d54e6.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ImIIF9mJpu8/first-amendment-audit-ImIIF9mJpu8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 498000,
@@ -28235,7 +29293,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/JLnjNMZu4gY/thumbnail-6522f202d7d2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-JLnjNMZu4gY/first-amendment-audit-JLnjNMZu4gY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1262000,
@@ -28281,7 +29339,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/Jh5at7PVQcc/thumbnail-7602076fcd6f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Jh5at7PVQcc/first-amendment-audit-Jh5at7PVQcc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2781000,
@@ -28480,6 +29538,52 @@
       }
     },
     {
+      "id": "TTA-OHwa3KU6GA4",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“YOU HAVE TO LEAVE,YOU ARE NOW TRESPASSING “-UNBELIEVABLE-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-20",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-OHwa3KU6GA4/first-amendment-audit-OHwa3KU6GA4_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 2040000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-OHwa3KU6GA4"
+          }
+        ]
+      }
+    },
+    {
       "id": "TTA-OJoUwzDZ5ok",
       "type": "tvspecial",
       "titles": [
@@ -28511,7 +29615,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/OJoUwzDZ5ok/thumbnail-4201b0aa3cb2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-OJoUwzDZ5ok/first-amendment-audit-OJoUwzDZ5ok_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2099000,
@@ -28557,7 +29661,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Odn4tFpkwtY/first-amendment-audit-Odn4tFpkwtY_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2224000,
@@ -28695,7 +29799,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/Q_p3MfymiAI/thumbnail-25fbdc501d5e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Q_p3MfymiAI/first-amendment-audit-Q_p3MfymiAI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1799000,
@@ -28787,7 +29891,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/R2GzyP40gUE/thumbnail-d32b802c63b2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-R2GzyP40gUE/first-amendment-audit-R2GzyP40gUE_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1519000,
@@ -28925,7 +30029,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/RV_zQlSOTW8/thumbnail-d2cefb5eeb39.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-RV_zQlSOTW8/first-amendment-audit-RV_zQlSOTW8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1882000,
@@ -29063,7 +30167,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/U7KmKvTQ4_k/thumbnail-f9a49791e61a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-U7KmKvTQ4_k/first-amendment-audit-U7KmKvTQ4_k_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1955000,
@@ -29109,7 +30213,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/UGEXbBpn3uc/thumbnail-9ce04b3039da.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-UGEXbBpn3uc/first-amendment-audit-UGEXbBpn3uc_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1398000,
@@ -29155,7 +30259,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/Ufg1-v2q7Ec/thumbnail-7828925c4099.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-Ufg1-v2q7Ec/first-amendment-audit-Ufg1-v2q7Ec_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2009000,
@@ -29339,7 +30443,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/VmlaF6j4bd0/thumbnail-1ebe1b873c21.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-VmlaF6j4bd0/first-amendment-audit-VmlaF6j4bd0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2047000,
@@ -29385,7 +30489,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/W_J4tV6Hl0I/thumbnail-374790f3bf73.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-W_J4tV6Hl0I/first-amendment-audit-W_J4tV6Hl0I_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1354000,
@@ -29477,7 +30581,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-XE6NOojIlWQ/first-amendment-audit-XE6NOojIlWQ_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2429000,
@@ -29569,7 +30673,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/ZZPFW7ZTfAI/thumbnail-1eb2c46687fa.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-ZZPFW7ZTfAI/first-amendment-audit-ZZPFW7ZTfAI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1445000,
@@ -29707,7 +30811,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/_G293xwa0YI/thumbnail-45bfd22b6fbc.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-_G293xwa0YI/first-amendment-audit-_G293xwa0YI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1505000,
@@ -29799,7 +30903,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/aKv4gTPCSuw/thumbnail-6f8ace5de683.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-aKv4gTPCSuw/first-amendment-audit-aKv4gTPCSuw_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1382000,
@@ -29809,6 +30913,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-aKv4gTPCSuw"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-aZjPm6iY7UQ",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“HE’S CAUSING A DISRUPTION!! WE WANT HIM REMOVED”-BANGER-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-16",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1903000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-aZjPm6iY7UQ"
           }
         ]
       }
@@ -29845,7 +30995,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/biEQzEUT7BA/thumbnail-df8b357090fc.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-biEQzEUT7BA/first-amendment-audit-biEQzEUT7BA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1745000,
@@ -29891,7 +31041,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/c8R9mCXyM3E/thumbnail-caae796a7c85.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-c8R9mCXyM3E/first-amendment-audit-c8R9mCXyM3E_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1382000,
@@ -30075,7 +31225,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/eebxnPXaqHA/thumbnail-c38b1498a58c.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-eebxnPXaqHA/first-amendment-audit-eebxnPXaqHA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1444000,
@@ -30259,7 +31409,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/gCt_TveiW9U/thumbnail-82b114311f6b.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-gCt_TveiW9U/first-amendment-audit-gCt_TveiW9U_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1491000,
@@ -30305,7 +31455,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-gRUi5geZ9CU/first-amendment-audit-gRUi5geZ9CU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1581000,
@@ -30397,7 +31547,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/j9-CQiVOXA0/thumbnail-577b4858b11e.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-j9-CQiVOXA0/first-amendment-audit-j9-CQiVOXA0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1434000,
@@ -30627,7 +31777,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/mAtJBIWGnv0/thumbnail-6f959e4cd349.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-mAtJBIWGnv0/first-amendment-audit-mAtJBIWGnv0_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1090000,
@@ -30673,7 +31823,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/mJTNLG1Dlfk/thumbnail-21cf22f5d0d2.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-mJTNLG1Dlfk/first-amendment-audit-mJTNLG1Dlfk_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1785000,
@@ -30765,7 +31915,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/nAAUj0dZ-e8/thumbnail-9248eaaea078.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-nAAUj0dZ-e8/first-amendment-audit-nAAUj0dZ-e8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2102000,
@@ -30903,7 +32053,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/onaN_NSxU1E/thumbnail-2bbbae85a148.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-onaN_NSxU1E/first-amendment-audit-onaN_NSxU1E_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1378000,
@@ -31041,7 +32191,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/pPSGCGZnvmU/thumbnail-c0c95c302a4f.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-pPSGCGZnvmU/first-amendment-audit-pPSGCGZnvmU_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1387000,
@@ -31087,7 +32237,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/qGqcu9NQnOo/thumbnail-3efa6356e97a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-qGqcu9NQnOo/first-amendment-audit-qGqcu9NQnOo_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2046000,
@@ -31225,7 +32375,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/u12IGuSX8go/thumbnail-f276408c0607.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-u12IGuSX8go/first-amendment-audit-u12IGuSX8go_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2325000,
@@ -31409,7 +32559,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/vOe-Yr93muI/thumbnail-2f34f4832bb7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-vOe-Yr93muI/first-amendment-audit-vOe-Yr93muI_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 2015000,
@@ -31685,7 +32835,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/xZRahCOhbBA/thumbnail-603ea346131a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-xZRahCOhbBA/first-amendment-audit-xZRahCOhbBA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1366000,
@@ -31823,7 +32973,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/yQ7ft36kxU8/thumbnail-2ad2b3e37505.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-yQ7ft36kxU8/first-amendment-audit-yQ7ft36kxU8_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1292000,
@@ -31915,7 +33065,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/zQVZI44G9cA/thumbnail-31449b7e439a.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-zQVZI44G9cA/first-amendment-audit-zQVZI44G9cA_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1735000,
@@ -31961,7 +33111,7 @@
       "images": [
         {
           "type": "main",
-          "url": "https://audittv.us/assets/videos/tyrant-terminator/zTQeqWGQ3k4/thumbnail-5e99cf28e6f7.jpg"
+          "url": "https://archive.org/download/first-amendment-audit-zTQeqWGQ3k4/first-amendment-audit-zTQeqWGQ3k4_itemimage.jpg"
         }
       ],
       "durationInMilliseconds": 1382000,
