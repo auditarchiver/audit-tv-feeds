@@ -972,6 +972,52 @@
       }
     },
     {
+      "id": "AT-vLFXX4tVm9Y",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "The One Thing That Completely Changed Our Library Forever"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2026-04-09",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-vLFXX4tVm9Y/first-amendment-audit-vLFXX4tVm9Y_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1033000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-vLFXX4tVm9Y"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-ymNoSfr15Eo",
       "type": "shortForm",
       "titles": [
@@ -8930,6 +8976,52 @@
       }
     },
     {
+      "id": "GGA-VYdlJdt_NFQ",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "COP SAYS “Go Work So I Can Get More Money” | DISGUSTING BEHAVIOR"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-11-30",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-VYdlJdt_NFQ/first-amendment-audit-VYdlJdt_NFQ_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 832000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-VYdlJdt_NFQ"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-W5UhM_O8UXQ",
       "type": "tvspecial",
       "titles": [
@@ -13300,6 +13392,52 @@
       }
     },
     {
+      "id": "HCRI-oByHZ9C0y_A",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Volusia And The Way Things Are Today."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2016-08-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-oByHZ9C0y_A/first-amendment-audit-oByHZ9C0y_A_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 488000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-oByHZ9C0y_A"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-oHD-ZCevGdo",
       "type": "shortForm",
       "titles": [
@@ -16198,6 +16336,52 @@
       }
     },
     {
+      "id": "JF-oHkneDNbvPA",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Amarillo Part 2 - Complaint form  - Why You Always Lyin'"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "James Freeman — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2019-02-05",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "James Freeman",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-oHkneDNbvPA/first-amendment-audit-oHkneDNbvPA_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1406000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "JF-oHkneDNbvPA"
+          }
+        ]
+      }
+    },
+    {
       "id": "JF-pE6aONXlRnA",
       "type": "shortForm",
       "titles": [
@@ -17067,6 +17251,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "KN-GNee0sDq5_o"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KN-H500DIh3OHA",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "GUARD GRABS REPORTER’S CAMERA - First Amendment Audit"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "KULT News — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-12-08",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "KULT News",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1224000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "KN-H500DIh3OHA"
           }
         ]
       }
@@ -31097,6 +31327,52 @@
             "license": "free",
             "quality": "hd",
             "playId": "TTA-Q5ezI7Ve-Yc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TTA-QTmW1_l3-ew",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "“I TELL YOU WHAT….YOU CAN LEAVE ME ALONE”-I.D. REFUSAL-FIRST AMENDMENT"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tyrant Terminator Audits!!! — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-05-02",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Tyrant Terminator Audits!!!",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://archive.org/download/first-amendment-audit-QTmW1_l3-ew/first-amendment-audit-QTmW1_l3-ew_itemimage.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1521000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "TTA-QTmW1_l3-ew"
           }
         ]
       }
