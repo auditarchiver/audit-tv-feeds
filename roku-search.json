@@ -1432,6 +1432,52 @@
       }
     },
     {
+      "id": "AT-XYhAsa05m3w",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "Clerk Having Meltdown while providing  Official Misconduct"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Audit Them — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-06-21",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Audit Them",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1113000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "AT-XYhAsa05m3w"
+          }
+        ]
+      }
+    },
+    {
       "id": "AT-Y72FzOxaSzY",
       "type": "tvspecial",
       "titles": [
@@ -10264,6 +10310,52 @@
       }
     },
     {
+      "id": "GGA-SznaiE-Hg3I",
+      "type": "tvspecial",
+      "titles": [
+        {
+          "value": "NYPD ARRIVES AT QUEENS COLLEGE | FINALE"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Good Guy Activism — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2025-09-03",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "Good Guy Activism",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 1731000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "GGA-SznaiE-Hg3I"
+          }
+        ]
+      }
+    },
+    {
       "id": "GGA-T6keV1Iw1qU",
       "type": "tvspecial",
       "titles": [
@@ -16101,6 +16193,52 @@
             "license": "free",
             "quality": "sd",
             "playId": "HCRI-QOG3NwKfQs0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HCRI-R41jSxGlVCM",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Honoring Their Oaths!"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2024-09-22",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 733000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-R41jSxGlVCM"
           }
         ]
       }
