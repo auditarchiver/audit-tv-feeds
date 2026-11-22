@@ -32582,7 +32582,8 @@
       "archive_uploaded_at": "2026-11-19 23:07:13",
       "media_display_width": 1920,
       "media_display_height": 1080,
-      "duration_seconds": 3345
+      "duration_seconds": 3345,
+      "hls_url": "https://archive.org/download/first-amendment-audit--4z2XND-Ab0/hls_v3_master.m3u8"
     },
     {
       "id": "HCRI--JaymJxJPq4",
@@ -41604,16 +41605,16 @@
       "url": "https://archive.org/download/first-amendment-audit-7Mn8LcOvMZw/first-amendment-audit-7Mn8LcOvMZw-roku-h264-aac.mp4",
       "video_filename": "first-amendment-audit-7Mn8LcOvMZw-roku-h264-aac.mp4",
       "stream_format": "mp4",
-      "playback_status": "archive_roku_mp4_unverified",
+      "playback_status": "archive_roku_mp4_verified",
       "approval_status": "approved_by_upload",
-      "roku_status": "unverified",
+      "roku_status": "ready",
       "rights_status": "uploaded_by_designated_account",
       "roku_verified_dev": false,
-      "media_video_codec": "unverified",
-      "media_audio_codec": "unverified",
+      "media_video_codec": "h264",
+      "media_audio_codec": "aac",
       "file_size": 9177337,
       "md5": "901084ed99f982f78370e1849503ea31",
-      "last_verified_at": "",
+      "last_verified_at": "2026-11-22T14:52:23+00:00",
       "topics": [
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;HonorYourOath Civil Rights Investigations;Police;Law Enforcement;Freedom of Speech;first amendment;walk of shame"
       ],
@@ -41626,7 +41627,7 @@
       "archive_uploaded_at": "2026-11-21 19:30:18",
       "media_display_width": 1280,
       "media_display_height": 720,
-      "duration_seconds": 51.69
+      "duration_seconds": 52
     },
     {
       "id": "TTA-oh3zFxnraeg-P001",
@@ -45934,6 +45935,7 @@
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Yuma School District One"
       ],
       "source_url": "https://archive.org/details/first-amendment-audit--4z2XND-Ab0",
+      "hls_url": "https://archive.org/download/first-amendment-audit--4z2XND-Ab0/hls_v3_master.m3u8",
       "media_display_width": 1920,
       "media_display_height": 1080
     },
@@ -45965,6 +45967,7 @@
         "First Amendment Audit;1st Amendment Audit;Civil Rights;Police Accountability;Kult News;Police;Law Enforcement;Freedom of Speech;KULT;Yuma School District One"
       ],
       "source_url": "https://archive.org/details/first-amendment-audit--4z2XND-Ab0",
+      "hls_url": "https://archive.org/download/first-amendment-audit--4z2XND-Ab0/hls_v3_master.m3u8",
       "media_display_width": 1920,
       "media_display_height": 1080
     },
@@ -55028,13 +55031,13 @@
         "FYF-YVIEn1dlNBY",
         "HCRI-JoBQfkXpwS4",
         "FYF-KfqoPF7zSI0",
+        "HCRI-7Mn8LcOvMZw",
         "FYF-ZrdVimcFeL4",
         "FYF-AZukSQmUgzw",
         "FYF-99p_Rr_ImF0",
         "FYF-EUmr3pLeeYM",
         "FYF-L3lexndq9FU",
-        "FYF-GyCsASf3FjE",
-        "FYF-Fta3eXSVMoY"
+        "FYF-GyCsASf3FjE"
       ],
       "category": "Diagnostics",
       "diagnostic": true,
@@ -55048,14 +55051,14 @@
       "video_ids": [
         "FYF-99p_Rr_ImF0",
         "FYF-JZw2AHrhMjA",
+        "HCRI-7Mn8LcOvMZw",
         "FYF-Fta3eXSVMoY",
         "FYF-9Eq69L5Lrts",
         "HCRI-JoBQfkXpwS4",
         "FYF-AiOQYXHeCTY",
         "FYF-UnG3okfWE30",
         "FYF-ZrdVimcFeL4",
-        "FYF-QXldtLrm3Sk",
-        "FYF-JK2eFKFzSIw"
+        "FYF-QXldtLrm3Sk"
       ],
       "category": "Diagnostics",
       "diagnostic": true,
@@ -57366,13 +57369,13 @@
         "FYF-YVIEn1dlNBY",
         "HCRI-JoBQfkXpwS4",
         "FYF-KfqoPF7zSI0",
+        "HCRI-7Mn8LcOvMZw",
         "FYF-ZrdVimcFeL4",
         "FYF-AZukSQmUgzw",
         "FYF-99p_Rr_ImF0",
         "FYF-EUmr3pLeeYM",
         "FYF-L3lexndq9FU",
-        "FYF-GyCsASf3FjE",
-        "FYF-Fta3eXSVMoY"
+        "FYF-GyCsASf3FjE"
       ]
     },
     {
@@ -57382,14 +57385,14 @@
       "video_ids": [
         "FYF-99p_Rr_ImF0",
         "FYF-JZw2AHrhMjA",
+        "HCRI-7Mn8LcOvMZw",
         "FYF-Fta3eXSVMoY",
         "FYF-9Eq69L5Lrts",
         "HCRI-JoBQfkXpwS4",
         "FYF-AiOQYXHeCTY",
         "FYF-UnG3okfWE30",
         "FYF-ZrdVimcFeL4",
-        "FYF-QXldtLrm3Sk",
-        "FYF-JK2eFKFzSIw"
+        "FYF-QXldtLrm3Sk"
       ]
     }
   ]

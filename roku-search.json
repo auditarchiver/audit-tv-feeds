@@ -15048,6 +15048,52 @@
       }
     },
     {
+      "id": "HCRI-7Mn8LcOvMZw",
+      "type": "shortForm",
+      "titles": [
+        {
+          "value": "Gadsden County Sheriff's Deputy Tiffany Parsons Doesn't Give A Damn."
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "HonorYourOath Civil Rights Investigations — First Amendment audit and public accountability recording."
+        }
+      ],
+      "releaseDate": "2014-11-15",
+      "genres": [
+        "public affairs"
+      ],
+      "credits": [
+        {
+          "name": "HonorYourOath Civil Rights Investigations",
+          "role": "producer"
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TV-MA"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://audittv.us/assets/videos/placeholder-v1.jpg"
+        }
+      ],
+      "durationInMilliseconds": 52000,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "hd",
+            "playId": "HCRI-7Mn8LcOvMZw"
+          }
+        ]
+      }
+    },
+    {
       "id": "HCRI-7NX-7zTpWbc",
       "type": "shortForm",
       "titles": [
